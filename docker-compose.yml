@@ -1,0 +1,103 @@
+version: '3.5'
+
+services:
+  proxy:
+    image: itzg/bungeecord
+    container_name: mcproxy
+    environment:
+      TYPE: VELOCITY
+    ports:
+      - "25565:25577"
+    restart: unless-stopped
+    volumes:
+      - ./proxy:/server
+    networks:
+      carsonet:
+        ipv4_address: 172.20.0.2
+
+  mclobby:
+    image: itzg/minecraft-server
+    container_name: mclobby
+    environment:
+      EULA: "TRUE"
+      MEMORY: 2G
+      VERSION: "1.18.2"
+      TYPE: "PUFFERFISH"
+      ONLINE_MODE: "FALSE"
+      GAMEMODE: ADVENTURE
+      MAX_PLAYERS: 150
+      MOTD: "§cCMCThrowback SMPOnline Lobby"
+      ALLOW_RCON: "FALSE"
+      ALLOW_NETHER: "FALSE"
+      SPAWN_NPCS: "FALSE"
+      SPAWN_ANIMALS: "FALSE"
+      SPAWN_MONSTERS: "FALSE"
+      SPIGET_RESOURCES: "69545" # Real Time Plugin 
+      MODS: ./data/mods.txt
+    tty: true
+    stdin_open: true
+    restart: unless-stopped
+    volumes:
+      - ./mc/lobby:/data
+    depends_on:
+      - proxy
+    networks:
+      carsonet:
+        ipv4_address: 172.20.0.3
+
+
+#  mc-s1:
+#    container_name: mc-s1
+#    image: itzg/minecraft-server
+#    environment:
+#      EULA: "TRUE"
+#      MEMORY: 4G
+#      VERSION: "1.17.1"
+#      TYPE: "PUFFERFISH"
+#      ONLINE_MODE: "FALSE"
+#      MAX_PLAYERS: 75
+#      MOTD: "§cCMCThrowback SMPOnline §oSeason 1 Server"
+#      WORLD: "https://archive.org/download/cmcsmplive_s1_s2/season1.zip"
+#      MODS: ./data/s1/mods.txt
+#    tty: true
+#    stdin_open: true
+#    restart: unless-stopped
+#    volumes:
+#      - ./mc/smp/s1:/data
+#    depends_on:
+#      - proxy
+#    networks:
+#      carsonet:
+#        ipv4_address: 172.20.0.4
+
+  mc-s2:
+    container_name: mc-s2
+    image: itzg/minecraft-server
+    environment:
+      EULA: "TRUE"
+      MEMORY: 4G
+      VERSION: "1.18.2"
+      TYPE: "PUFFERFISH"
+      ONLINE_MODE: "FALSE"
+      MAX_PLAYERS: 75
+      MOTD: "§bCMCThrowback SMPOnline §oSeason 2 Server"
+      WORLD: "https://archive.org/download/cmcsmplive_s1_s2/season2.zip"
+      ALLOW_RCON: "FALSE"
+      MODS: ./mc/smp/s2/mods.txt
+    tty: true
+    stdin_open: true
+    restart: unless-stopped
+    volumes:
+      - ./data/s2:/data
+    depends_on:
+      - proxy
+    networks:
+      carsonet:
+        ipv4_address: 172.20.0.5
+
+networks:
+  carsonet:
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 172.20.0.0/24
