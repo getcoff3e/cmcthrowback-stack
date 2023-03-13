@@ -11,6 +11,7 @@ services:
     restart: unless-stopped
     volumes:
       - ./proxy:/server
+      - ./extras/velocity:/extras:ro
     networks:
       carsonet:
         ipv4_address: 172.20.0.2
@@ -33,12 +34,13 @@ services:
       SPAWN_ANIMALS: "FALSE"
       SPAWN_MONSTERS: "FALSE"
       SPIGET_RESOURCES: "69545" # Real Time Plugin 
-      MODS: ./data/mods.txt
+      MODS_FILE: ./extras/lobby-plugins.txt
     tty: true
     stdin_open: true
     restart: unless-stopped
     volumes:
       - ./mc/lobby:/data
+      - ./extras/lobby:/extras:ro
     depends_on:
       - proxy
     networks:
@@ -64,6 +66,7 @@ services:
 #    restart: unless-stopped
 #    volumes:
 #      - ./mc/smp/s1:/data
+#       - ./extras/s1:/extras:ro
 #    depends_on:
 #      - proxy
 #    networks:
@@ -83,12 +86,13 @@ services:
       MOTD: "§bCMCThrowback SMPOnline §oSeason 2 Server"
       WORLD: "https://archive.org/download/cmcsmplive_s1_s2/season2.zip"
       ALLOW_RCON: "FALSE"
-      MODS: ./mc/smp/s2/mods.txt
+      MODS_FILE: ./extras/s2-plugins.txt
     tty: true
     stdin_open: true
     restart: unless-stopped
     volumes:
       - ./data/s2:/data
+      - ./extras/s2:/extras:ro
     depends_on:
       - proxy
     networks:
