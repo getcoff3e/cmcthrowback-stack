@@ -2,24 +2,27 @@ version: '3.5'
 
 services:
   proxy:
-    image: itzg/bungeecord
+    image: itzg/bungeecord:latest
     container_name: mcproxy
     environment:
+      DEBUG: ${DEBUG_MODE}
       TYPE: VELOCITY
+      MODS_FILE: "/extras/velocity-plugins.txt"
     ports:
       - "25565:25577"
     restart: unless-stopped
     volumes:
       - ./proxy:/server
-      - ./extras/velocity:/extras:ro
+      - ./extras/velocity:/extras
     networks:
       carsonet:
         ipv4_address: 172.20.0.2
 
   mclobby:
-    image: itzg/minecraft-server
+    image: itzg/minecraft-server:latest
     container_name: mclobby
     environment:
+      DEBUG: ${DEBUG_MODE}
       EULA: "TRUE"
       MEMORY: 2G
       VERSION: "1.18.2"
@@ -39,16 +42,19 @@ services:
     restart: unless-stopped
     volumes:
       - ./mc/lobby:/data
+      - ./extras/lobby:/extras
     depends_on:
-      - proxy
+      proxy:
+        condition: "service_healthy"
     networks:
       carsonet:
         ipv4_address: 172.20.0.3
 
   mc-s1:
     container_name: mc-s1
-    image: itzg/minecraft-server
+    image: itzg/minecraft-server:latest
     environment:
+      DEBUG: ${DEBUG_MODE}
       EULA: "TRUE"
       MEMORY: 4G
       VERSION: "1.17.1"
@@ -61,16 +67,19 @@ services:
     restart: unless-stopped
     volumes:
       - ./mc/smp/s1:/data
+      - ./extras/s1:/extras
     depends_on:
-      - proxy
+      proxy:
+        condition: "service_healthy"
     networks:
       carsonet:
         ipv4_address: 172.20.0.4
 
   mc-s2:
     container_name: mc-s2
-    image: itzg/minecraft-server
+    image: itzg/minecraft-server:latest
     environment:
+      DEBUG: ${DEBUG_MODE}
       EULA: "TRUE"
       MEMORY: 4G
       VERSION: "1.18.2"
@@ -84,8 +93,10 @@ services:
     restart: unless-stopped
     volumes:
       - ./mc/smp/s2:/data
+      - ./etras/s2:/extras
     depends_on:
-      - proxy
+      proxy:
+        condition: "service_healthy"
     networks:
       carsonet:
         ipv4_address: 172.20.0.5
