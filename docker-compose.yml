@@ -36,7 +36,7 @@ services:
       SPAWN_NPCS: "FALSE"
       SPAWN_ANIMALS: "FALSE"
       SPAWN_MONSTERS: "FALSE"
-      MODS_FILE: "./extras/lobby-plugins.txt"
+      MODS: ${PLUGINS}
       SPIGET_RESOURCES: "69545" # Real Time Plugin 
     tty: true
     stdin_open: true
@@ -44,9 +44,9 @@ services:
     volumes:
       - ./mc/lobby:/data
       - ./extras/lobby:/extras
-    depends_on:
-      proxy:
-        condition: "service_healthy"
+#    depends_on:
+#      proxy:
+#        condition: "service_healthy"
     networks:
       carsonet:
         ipv4_address: 172.20.0.3
@@ -63,17 +63,18 @@ services:
       ONLINE_MODE: "FALSE"
       MAX_PLAYERS: 75
       MOTD: "§cCMCThrowback SMPOnline §oSeason 1 Server"
-      WORLD: "https://archive.org/download/cmcsmplive_s1_s2/season1.zip"
-      MODS_FILE: "./extras/s1-plugins.txt"
+#      WORLD: "https://archive.org/download/cmcsmplive_s1_s2/season1.zip"
+#      MODS_FILE: "./extras/s1-plugins.txt"
+      MODS: ${PLUGINS}
     tty: true
     stdin_open: true
     restart: unless-stopped
     volumes:
       - ./mc/smp/s1:/data
       - ./extras/s1:/extras
-    depends_on:
-      proxy:
-        condition: "service_healthy"
+#    depends_on:
+#      proxy:
+#        condition: "service_healthy"
     networks:
       carsonet:
         ipv4_address: 172.20.0.4
@@ -90,8 +91,9 @@ services:
       ONLINE_MODE: "FALSE"
       MAX_PLAYERS: 75
       MOTD: "§bCMCThrowback SMPOnline §oSeason 2 Server"
-      WORLD: "https://archive.org/download/cmcsmplive_s1_s2/season2.zip"
-      MODS_FILE: "./extras/s2-plugins.txt"
+#      WORLD: "https://archive.org/download/cmcsmplive_s1_s2/season2.zip"
+#      MODS_FILE: "./extras/s2-plugins.txt"
+      MODS: ${PLUGINS}
       ALLOW_RCON: "FALSE"
     tty: true
     stdin_open: true
@@ -99,9 +101,9 @@ services:
     volumes:
       - ./mc/smp/s2:/data
       - ./etras/s2:/extras
-    depends_on:
-      proxy:
-        condition: "service_healthy"
+#    depends_on:
+#      proxy:
+#        condition: "service_healthy"
     networks:
       carsonet:
         ipv4_address: 172.20.0.5
