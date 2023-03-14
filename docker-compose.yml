@@ -36,7 +36,6 @@ services:
       SPAWN_NPCS: "FALSE"
       SPAWN_ANIMALS: "FALSE"
       SPAWN_MONSTERS: "FALSE"
-      MODS: ${PLUGINS}
       SPIGET_RESOURCES: "69545" # Real Time Plugin 
     tty: true
     stdin_open: true
@@ -63,9 +62,6 @@ services:
       ONLINE_MODE: "FALSE"
       MAX_PLAYERS: 75
       MOTD: "§cCMCThrowback SMPOnline §oSeason 1 Server"
-#      WORLD: "https://archive.org/download/cmcsmplive_s1_s2/season1.zip"
-#      MODS_FILE: "./extras/s1-plugins.txt"
-      MODS: ${PLUGINS}
     tty: true
     stdin_open: true
     restart: unless-stopped
@@ -91,9 +87,6 @@ services:
       ONLINE_MODE: "FALSE"
       MAX_PLAYERS: 75
       MOTD: "§bCMCThrowback SMPOnline §oSeason 2 Server"
-#      WORLD: "https://archive.org/download/cmcsmplive_s1_s2/season2.zip"
-#      MODS_FILE: "./extras/s2-plugins.txt"
-      MODS: ${PLUGINS}
       ALLOW_RCON: "FALSE"
     tty: true
     stdin_open: true
