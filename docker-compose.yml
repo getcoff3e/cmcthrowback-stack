@@ -34,44 +34,38 @@ services:
       SPAWN_ANIMALS: "FALSE"
       SPAWN_MONSTERS: "FALSE"
       SPIGET_RESOURCES: "69545" # Real Time Plugin 
-      MODS_FILE: ./extras/lobby-plugins.txt
     tty: true
     stdin_open: true
     restart: unless-stopped
     volumes:
       - ./mc/lobby:/data
-      - ./extras/lobby:/extras:ro
     depends_on:
       - proxy
     networks:
       carsonet:
         ipv4_address: 172.20.0.3
 
-
-#  mc-s1:
-#    container_name: mc-s1
-#    image: itzg/minecraft-server
-#    environment:
-#      EULA: "TRUE"
-#      MEMORY: 4G
-#      VERSION: "1.17.1"
-#      TYPE: "PUFFERFISH"
-#      ONLINE_MODE: "FALSE"
-#      MAX_PLAYERS: 75
-#      MOTD: "§cCMCThrowback SMPOnline §oSeason 1 Server"
-#      WORLD: "https://archive.org/download/cmcsmplive_s1_s2/season1.zip"
-#      MODS: ./data/s1/mods.txt
-#    tty: true
-#    stdin_open: true
-#    restart: unless-stopped
-#    volumes:
-#      - ./mc/smp/s1:/data
-#       - ./extras/s1:/extras:ro
-#    depends_on:
-#      - proxy
-#    networks:
-#      carsonet:
-#        ipv4_address: 172.20.0.4
+  mc-s1:
+    container_name: mc-s1
+    image: itzg/minecraft-server
+    environment:
+      EULA: "TRUE"
+      MEMORY: 4G
+      VERSION: "1.17.1"
+      TYPE: "PUFFERFISH"
+      ONLINE_MODE: "FALSE"
+      MAX_PLAYERS: 75
+      MOTD: "§cCMCThrowback SMPOnline §oSeason 1 Server"
+    tty: true
+    stdin_open: true
+    restart: unless-stopped
+    volumes:
+      - ./mc/smp/s1:/data
+    depends_on:
+      - proxy
+    networks:
+      carsonet:
+        ipv4_address: 172.20.0.4
 
   mc-s2:
     container_name: mc-s2
@@ -84,15 +78,12 @@ services:
       ONLINE_MODE: "FALSE"
       MAX_PLAYERS: 75
       MOTD: "§bCMCThrowback SMPOnline §oSeason 2 Server"
-      WORLD: "https://archive.org/download/cmcsmplive_s1_s2/season2.zip"
       ALLOW_RCON: "FALSE"
-      MODS_FILE: ./extras/s2-plugins.txt
     tty: true
     stdin_open: true
     restart: unless-stopped
     volumes:
-      - ./data/s2:/data
-      - ./extras/s2:/extras:ro
+      - ./mc/smp/s2:/data
     depends_on:
       - proxy
     networks:
