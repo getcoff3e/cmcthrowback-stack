@@ -1,5 +1,7 @@
 # LuckPerms
 https://download.luckperms.net/1476/velocity/LuckPerms-Velocity-5.4.65.jar
+# Maintenance
+https://cdn.modrinth.com/data/VCAqN1ln/versions/sAW3iflU/Maintenance.jar
 # ClientCatcher
 https://cdn.modrinth.com/data/Dhqd1a7j/versions/III6WHOO/ClientCatcher-3.1.0.jar
 # VLobby

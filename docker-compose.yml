@@ -42,9 +42,8 @@ services:
     volumes:
       - ${LOBBY_DIR}:/data
       - ./plugins/smp:/plugins
-#    depends_on:
-#      proxy:
-#        condition: "service_healthy"
+    depends_on:
+      - proxy
     networks:
       carsonet:
         ipv4_address: 172.20.0.3
@@ -68,9 +67,8 @@ services:
     volumes:
       - ${S1_DIR}:/data
       - ./plugins/smp:/plugins
-#    depends_on:
-#      proxy:
-#        condition: "service_healthy"
+    depends_on:
+      - proxy
     networks:
       carsonet:
         ipv4_address: 172.20.0.4
@@ -94,9 +92,8 @@ services:
     volumes:
       - ${S2_DIR}:/data
       - ./plugins/smp:/plugins
-#    depends_on:
-#      proxy:
-#        condition: "service_healthy"
+    depends_on:
+      - proxy
     networks:
       carsonet:
         ipv4_address: 172.20.0.5
