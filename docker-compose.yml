@@ -13,7 +13,6 @@ services:
     restart: unless-stopped
     volumes:
       - ./proxy:/server
-      - ./extras:/extras
       - ./plugins/velocity:/plugins
     networks:
       carsonet:
@@ -42,7 +41,6 @@ services:
     restart: unless-stopped
     volumes:
       - ${LOBBY_DIR}:/data
-      - ./extras:/extras
       - ./plugins/smp:/plugins
 #    depends_on:
 #      proxy:
@@ -63,7 +61,6 @@ services:
       ONLINE_MODE: "FALSE"
       MAX_PLAYERS: 75
       MOTD: "§cCMCThrowback SMPOnline §oSeason 1 Server"
-      MODS_FILE: "/extras/mods.txt"
       WORLD: "https://archive.org/download/cmcsmplive_s1_s2/SMPOnline/season1.zip"
       ALLOW_RCON: ${ALLOW_RCON}
     tty: true
@@ -71,7 +68,6 @@ services:
     restart: unless-stopped
     volumes:
       - ${S1_DIR}:/data
-      - ./extras:/extras
       - ./plugins/smp:/plugins
 #    depends_on:
 #      proxy:
@@ -92,7 +88,6 @@ services:
       ONLINE_MODE: "FALSE"
       MAX_PLAYERS: 75
       MOTD: "§bCMCThrowback SMPOnline §oSeason 2 Server"
-      MODS_FILE: "/extras/mods.txt"
       WORLD: "https://archive.org/download/cmcsmplive_s1_s2/SMPOnline/season2.zip"
       ALLOW_RCON: ${ALLOW_RCON}
     tty: true
@@ -100,7 +95,6 @@ services:
     restart: unless-stopped
     volumes:
       - ${S2_DIR}:/data
-      - ./extras:/extras
       - ./plugins/smp:/plugins
 #    depends_on:
 #      proxy:
