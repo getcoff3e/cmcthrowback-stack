@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Use aria2c to download the world files
+# Use aria2c to download the world files from the torrent
 if [ $DL_SRC = "TORRENT" ]
 then
     aria2c -d $DL_DIR \
