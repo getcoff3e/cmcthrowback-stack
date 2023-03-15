@@ -6,3 +6,7 @@ https://github.com/ViaVersion/ViaVersion/releases/download/4.5.1/ViaVersion-4.5.
 https://download.luckperms.net/1475/bukkit/loader/LuckPerms-Bukkit-5.4.64.jar
 # Plasmo Voice
 https://cdn.modrinth.com/data/1bZhdhsH/versions/1.0.11/plasmovoice-server-1.0.11.jar
+# SimplePortals
+https://github.com/XZot1K/SimplePortals/releases/download/1.7.2/SimplePortals-1.7.2.jar
+# Multiverse Core 
+https://github.com/Multiverse/Multiverse-Core/releases/download/4.3.8/multiverse-core-4.3.8.jar

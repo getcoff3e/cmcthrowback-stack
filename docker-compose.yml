@@ -7,6 +7,7 @@ services:
     environment:
       DEBUG: ${DEBUG_MODE}
       TYPE: VELOCITY
+      ALLOW_RCON: ${ALLOW_RCON}
     ports:
       - "25565:25577"
     restart: unless-stopped
@@ -25,23 +26,23 @@ services:
       EULA: "TRUE"
       MEMORY: 2G
       VERSION: "1.18.2"
-      TYPE: "PUFFERFISH"
+      TYPE: "PAPER"
       ONLINE_MODE: "FALSE"
       GAMEMODE: ADVENTURE
       MAX_PLAYERS: 150
       MOTD: "§cCMCThrowback SMPOnline Lobby"
-      ALLOW_RCON: "FALSE"
+      MODS_FILE: "/extras/mods.txt"
+      ALLOW_RCON: ${ALLOW_RCON}
       ALLOW_NETHER: "FALSE"
       SPAWN_NPCS: "FALSE"
       SPAWN_ANIMALS: "FALSE"
       SPAWN_MONSTERS: "FALSE"
-      SPIGET_RESOURCES: "69545" # Real Time Plugin 
     tty: true
     stdin_open: true
     restart: unless-stopped
     volumes:
-      - ./mc/lobby:/data
-      - ./extras/lobby:/extras
+      - ${LOBBY_DIR}:/data
+      - ./extras:/extras
 #    depends_on:
 #      proxy:
 #        condition: "service_healthy"
@@ -57,16 +58,19 @@ services:
       EULA: "TRUE"
       MEMORY: 4G
       VERSION: "1.17.1"
-      TYPE: "PUFFERFISH"
+      TYPE: "PAPER"
       ONLINE_MODE: "FALSE"
       MAX_PLAYERS: 75
       MOTD: "§cCMCThrowback SMPOnline §oSeason 1 Server"
+      MODS_FILE: "/extras/mods.txt"
+      WORLD: "https://archive.org/download/cmcsmplive_s1_s2/SMPOnline/season1.zip"
+      ALLOW_RCON: ${ALLOW_RCON}
     tty: true
     stdin_open: true
     restart: unless-stopped
     volumes:
-      - ./mc/smp/s1:/data
-      - ./extras/s1:/extras
+      - ${S1_DIR}:/data
+      - ./extras:/extras
 #    depends_on:
 #      proxy:
 #        condition: "service_healthy"
@@ -82,17 +86,19 @@ services:
       EULA: "TRUE"
       MEMORY: 4G
       VERSION: "1.18.2"
-      TYPE: "PUFFERFISH"
+      TYPE: "PAPER"
       ONLINE_MODE: "FALSE"
       MAX_PLAYERS: 75
       MOTD: "§bCMCThrowback SMPOnline §oSeason 2 Server"
-      ALLOW_RCON: "FALSE"
+      MODS_FILE: "/extras/mods.txt"
+      WORLD: "https://archive.org/download/cmcsmplive_s1_s2/SMPOnline/season2.zip"
+      ALLOW_RCON: ${ALLOW_RCON}
     tty: true
     stdin_open: true
     restart: unless-stopped
     volumes:
-      - ./mc/smp/s2:/data
-      - ./etras/s2:/extras
+      - ${S2_DIR}:/data
+      - ./extras:/extras
 #    depends_on:
 #      proxy:
 #        condition: "service_healthy"
