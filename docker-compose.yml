@@ -14,6 +14,7 @@ services:
     volumes:
       - ./proxy:/server
       - ./extras:/extras
+      - ./plugins/velocity:/plugins
     networks:
       carsonet:
         ipv4_address: 172.20.0.2
@@ -31,7 +32,6 @@ services:
       GAMEMODE: ADVENTURE
       MAX_PLAYERS: 150
       MOTD: "§cCMCThrowback SMPOnline Lobby"
-      MODS_FILE: "/extras/mods.txt"
       ALLOW_RCON: ${ALLOW_RCON}
       ALLOW_NETHER: "FALSE"
       SPAWN_NPCS: "FALSE"
@@ -43,6 +43,7 @@ services:
     volumes:
       - ${LOBBY_DIR}:/data
       - ./extras:/extras
+      - ./plugins/smp:/plugins
 #    depends_on:
 #      proxy:
 #        condition: "service_healthy"
@@ -71,6 +72,7 @@ services:
     volumes:
       - ${S1_DIR}:/data
       - ./extras:/extras
+      - ./plugins/smp:/plugins
 #    depends_on:
 #      proxy:
 #        condition: "service_healthy"
@@ -99,6 +101,7 @@ services:
     volumes:
       - ${S2_DIR}:/data
       - ./extras:/extras
+      - ./plugins/smp:/plugins
 #    depends_on:
 #      proxy:
 #        condition: "service_healthy"
