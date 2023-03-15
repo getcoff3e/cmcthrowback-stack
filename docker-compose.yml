@@ -7,7 +7,6 @@ services:
     environment:
       DEBUG: ${DEBUG_MODE}
       TYPE: VELOCITY
-      MODS_FILE: "/extras/velocity-plugins.txt"
     ports:
       - "25565:25577"
     restart: unless-stopped
