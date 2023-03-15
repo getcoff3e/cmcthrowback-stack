@@ -7,6 +7,8 @@ services:
     environment:
       DEBUG: ${DEBUG_MODE}
       TYPE: VELOCITY
+      MODS: ${VELOCITY_PLUGIN_RAWURLS}
+      MODRINTH_PROJECTS: ${VELOCITY_PLUGINS_MODRINTH}
       ALLOW_RCON: ${ALLOW_RCON}
     ports:
       - "25565:25577"
@@ -31,6 +33,8 @@ services:
       GAMEMODE: ADVENTURE
       MAX_PLAYERS: 150
       MOTD: "§cCMCThrowback SMPOnline Lobby"
+      MODS: ${SMP_PLUGIN_RAWURLS}
+      MODRINTH_PROJECTS: ${SMP_PLUGINS_MODRINTH}
       ALLOW_RCON: ${ALLOW_RCON}
       ALLOW_NETHER: "FALSE"
       SPAWN_NPCS: "FALSE"
@@ -60,6 +64,8 @@ services:
       ONLINE_MODE: "FALSE"
       MAX_PLAYERS: 75
       MOTD: "§cCMCThrowback SMPOnline §oSeason 1 Server"
+      MODS: ${SMP_PLUGIN_RAWURLS}
+      MODRINTH_PROJECTS: ${SMP_PLUGINS_MODRINTH}
       ALLOW_RCON: ${ALLOW_RCON}
     tty: true
     stdin_open: true
@@ -85,6 +91,8 @@ services:
       ONLINE_MODE: "FALSE"
       MAX_PLAYERS: 75
       MOTD: "§bCMCThrowback SMPOnline §oSeason 2 Server"
+      MODS: ${SMP_PLUGIN_RAWURLS}
+      MODRINTH_PROJECTS: ${SMP_PLUGINS_MODRINTH}
       ALLOW_RCON: ${ALLOW_RCON}
     tty: true
     stdin_open: true
