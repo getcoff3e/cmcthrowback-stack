@@ -61,7 +61,6 @@ services:
       ONLINE_MODE: "FALSE"
       MAX_PLAYERS: 75
       MOTD: "§cCMCThrowback SMPOnline §oSeason 1 Server"
-      WORLD: "https://archive.org/download/cmcsmplive_s1_s2/SMPOnline/season1.zip"
       ALLOW_RCON: ${ALLOW_RCON}
     tty: true
     stdin_open: true
@@ -88,7 +87,6 @@ services:
       ONLINE_MODE: "FALSE"
       MAX_PLAYERS: 75
       MOTD: "§bCMCThrowback SMPOnline §oSeason 2 Server"
-      WORLD: "https://archive.org/download/cmcsmplive_s1_s2/SMPOnline/season2.zip"
       ALLOW_RCON: ${ALLOW_RCON}
     tty: true
     stdin_open: true
