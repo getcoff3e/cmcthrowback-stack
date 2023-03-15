@@ -13,7 +13,7 @@ services:
     restart: unless-stopped
     volumes:
       - ./proxy:/server
-      - ./extras/velocity:/extras
+      - ./extras:/extras
     networks:
       carsonet:
         ipv4_address: 172.20.0.2
