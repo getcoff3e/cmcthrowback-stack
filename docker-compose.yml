@@ -7,8 +7,6 @@ services:
     environment:
       DEBUG: ${DEBUG_MODE}
       TYPE: VELOCITY
-      MODS: ${VELOCITY_PLUGIN_RAWURLS}
-      MODRINTH_PROJECTS: ${VELOCITY_PLUGINS_MODRINTH}
       ALLOW_RCON: ${ALLOW_RCON}
     ports:
       - "25565:25577"
