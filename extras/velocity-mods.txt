@@ -1,0 +1,12 @@
+# LuckPerms
+https://download.luckperms.net/1476/velocity/LuckPerms-Velocity-5.4.65.jar
+# Maintenance
+https://cdn.modrinth.com/data/VCAqN1ln/versions/sAW3iflU/Maintenance.jar
+# ClientCatcher
+https://cdn.modrinth.com/data/Dhqd1a7j/versions/III6WHOO/ClientCatcher-3.1.0.jar
+# VLobby
+https://cdn.modrinth.com/data/2LZyriIV/versions/DzNrrRiA/VLobby-2.0.1.jar
+# Vmessage
+https://github.com/FeuSalamander/Vmessage/releases/download/1.5.2/Vmessage.jar
+# VServerInfo
+https://cdn.modrinth.com/data/ijxRRNJT/versions/NozNgNba/VServerInfo-2.1.0.jar

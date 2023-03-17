@@ -34,7 +34,7 @@ settings:
   velocity-support:
     enabled: true
     online-mode: true
-    secret: IFSV4YqMa2UY
+    secret: ''
   async-chunks:
     threads: -1
   unsupported-settings:

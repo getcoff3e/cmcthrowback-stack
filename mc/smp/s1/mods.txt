@@ -1,8 +1,0 @@
-# EssentialsX
-https://ci.ender.zone/job/EssentialsX/lastSuccessfulBuild/artifact/jars/EssentialsX-2.20.0-dev+44-43d84de.jar
-# ViaVersion
-https://github.com/ViaVersion/ViaVersion/releases/download/4.5.1/ViaVersion-4.5.1.jar
-# LuckPerms
-https://download.luckperms.net/1475/bukkit/loader/LuckPerms-Bukkit-5.4.64.jar
-# Plasmo Voice
-https://cdn.modrinth.com/data/1bZhdhsH/versions/1.0.11/plasmovoice-server-1.0.11.jar

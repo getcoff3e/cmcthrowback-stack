@@ -74,7 +74,7 @@ enable-player-address-logging = true
 # Configure your servers here. Each key represents the server's name, and the value
 # represents the IP address of the server to connect to.
 lobby = "mclobby:25565"
-#s1 = "mc-s1:25565"
+s1 = "mc-s1:25565"
 s2 = "mc-s2:25565"
 
 # In what order we should try servers when a player logs in or is kicked from a server.
@@ -87,9 +87,9 @@ try = [
 "cmcthrowback.us.to" = [
     "lobby"
 ]
-#"s1.cmcthrowback.us.to" = [
-#    "s1"
-#]
+"s1.cmcthrowback.us.to" = [
+    "s1"
+]
 "s2.cmcthrowback.us.to" = [
     "s2"
 ]

@@ -1,0 +1,28 @@
+# EssentialsX
+https://ci.ender.zone/job/EssentialsX/lastSuccessfulBuild/artifact/jars/EssentialsX-2.20.0-dev+44-43d84de.jar
+# ViaVersion
+https://github.com/ViaVersion/ViaVersion/releases/download/4.5.1/ViaVersion-4.5.1.jar
+# BlueMap
+https://cdn.modrinth.com/data/swbUV1cr/versions/7aIncldX/BlueMap-3.12-spigot.jar
+# LuckPerms
+https://download.luckperms.net/1475/bukkit/loader/LuckPerms-Bukkit-5.4.64.jar
+# FastAsyncWorldEdit
+https://cdn.modrinth.com/data/z4HZZnLr/versions/T5dCGWt2/FastAsyncWorldEdit-Bukkit-2.5.2.jar
+# CoreProtect
+https://cdn.modrinth.com/data/Lu3KuzdV/versions/mvLpRWww/CoreProtect-21.3.jar
+# WorldGuard
+https://mediafilez.forgecdn.net/files/3677/516/worldguard-bukkit-7.0.7-dist.jar
+# Vault
+https://github.com/MilkBowl/Vault/releases/download/1.7.3/Vault.jar
+# QuickShop
+https://cdn.modrinth.com/data/ijC5dDkD/versions/jJkeGuqY/QuickShop-Hikari-4.1.0.4.jar
+# TAB
+https://cdn.modrinth.com/data/cUhi3iB2/versions/XRXBIyQG/tabtps-spigot-1.3.16.jar
+# Plasmo Voice
+https://cdn.modrinth.com/data/1bZhdhsH/versions/1.0.11/plasmovoice-server-1.0.11.jar
+# Xaero Map Spigot
+https://cdn.modrinth.com/data/Zjb20YAx/versions/hkIDnRNe/xaero-map-spigot-1.0.0.jar
+# SimplePortals
+https://github.com/XZot1K/SimplePortals/releases/download/1.7.2/SimplePortals-1.7.2.jar
+# Multiverse Core 
+https://github.com/Multiverse/Multiverse-Core/releases/download/4.3.8/multiverse-core-4.3.8.jar
