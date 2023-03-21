@@ -1,0 +1,16 @@
+version: '3.5'
+
+services:
+  mcproxy:
+    image: itzg/bungeecord:latest
+    container_name: mcproxy
+    environment:
+      DEBUG: ${DEBUG_MODE}
+      TYPE: VELOCITY
+      ALLOW_RCON: ${ALLOW_RCON}
+    ports:
+      - "${PROXY_PORT}:25577"
+    restart: unless-stopped
+    volumes:
+      - ./proxy:/server
+      - ./plugins/velocity:/plugins

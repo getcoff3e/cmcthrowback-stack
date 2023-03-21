@@ -9,7 +9,7 @@ services:
       TYPE: VELOCITY
       ALLOW_RCON: ${ALLOW_RCON}
     ports:
-      - "25565:25577"
+      - "${PROXY_PORT}:25577"
     restart: unless-stopped
     volumes:
       - ./proxy:/server
