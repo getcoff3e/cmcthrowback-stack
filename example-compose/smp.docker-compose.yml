@@ -49,4 +49,4 @@ services:
       - ./plugins/smp:/plugins
       - ${SMP_PLUGINS_FILE}:/extras/mods.txt:ro
     ports:
-      - ${S2_DIR}:25565
+      - ${S2_PORT}:25565
