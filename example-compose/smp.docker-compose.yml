@@ -1,0 +1,52 @@
+version: '3.5'
+
+services:
+  mc-s1:
+    container_name: mc-s1
+    image: itzg/minecraft-server:latest
+    environment:
+      DEBUG: ${DEBUG_MODE}
+      EULA: "TRUE"
+      MEMORY: 4G
+      VERSION: "1.17.1"
+      TYPE: "PUFFERFISH"
+      ONLINE_MODE: "FALSE"
+      MAX_PLAYERS: 75
+      MOTD: "§cCMCThrowback SMPOnline §oSeason 1 Server"
+      MODS_FILE: /extras/mods.txt
+      REMOVE_OLD_MODS: TRUE
+      ALLOW_RCON: ${ALLOW_RCON}
+    tty: true
+    stdin_open: true
+    restart: unless-stopped
+    volumes:
+      - ${S1_DIR}:/data
+      - ./plugins/smp:/plugins
+      - ${SMP_PLUGINS_FILE}:/extras/mods.txt:ro
+    ports:
+      - ${S1_PORT}:25565
+
+  mc-s2:
+    container_name: mc-s2
+    image: itzg/minecraft-server:latest
+    environment:
+      DEBUG: ${DEBUG_MODE}
+      EULA: "TRUE"
+      MEMORY: 4G
+      VERSION: "1.18.2"
+      TYPE: "PUFFERFISH"
+      ONLINE_MODE: "FALSE"
+      MAX_PLAYERS: 75
+      MOTD: "§bCMCThrowback SMPOnline §oSeason 2 Server"
+      MODS_FILE: /extras/mods.txt
+      REMOVE_OLD_MODS: TRUE
+      ALLOW_RCON: ${ALLOW_RCON}
+    tty: true
+    stdin_open: true
+    restart: unless-stopped
+    volumes:
+      - ${S2_DIR}:/data
+      - ./plugins/smp:/plugins
+      - ${SMP_PLUGINS_FILE}:/extras/mods.txt:ro
+    ports:
+      - ${S2_PORT}:25565
