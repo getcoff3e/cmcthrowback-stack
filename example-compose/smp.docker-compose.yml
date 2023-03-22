@@ -14,6 +14,7 @@ services:
       MAX_PLAYERS: 75
       MOTD: "§cCMCThrowback SMPOnline §oSeason 1 Server"
       MODS_FILE: /extras/mods.txt
+      WORLD: ${S1_WORLD_URL}
       REMOVE_OLD_MODS: TRUE
       ALLOW_RCON: ${ALLOW_RCON}
     tty: true
@@ -39,6 +40,7 @@ services:
       MAX_PLAYERS: 75
       MOTD: "§bCMCThrowback SMPOnline §oSeason 2 Server"
       MODS_FILE: /extras/mods.txt
+      WORLD: ${S2_WORLD_URL}
       REMOVE_OLD_MODS: TRUE
       ALLOW_RCON: ${ALLOW_RCON}
     tty: true
