@@ -7,6 +7,7 @@ services:
     environment:
       DEBUG: ${DEBUG_MODE}
       TYPE: VELOCITY
+      MODS_FILE: /extras/mods.txt
       ALLOW_RCON: ${ALLOW_RCON}
     ports:
       - "${PROXY_PORT}:25577"
@@ -14,6 +15,7 @@ services:
     volumes:
       - ./proxy:/server
       - ./plugins/velocity:/plugins
+      - ${PROXY_PLUGINS_FILE}:/extras/mods.txt:ro
     networks:
       carsonet:
         ipv4_address: 172.20.0.2
@@ -31,6 +33,7 @@ services:
       GAMEMODE: ADVENTURE
       MAX_PLAYERS: 150
       MOTD: "§cCMCThrowback SMPOnline Lobby"
+      MODS_FILE: /extras/mods.txt
       ALLOW_RCON: ${ALLOW_RCON}
       ALLOW_NETHER: "FALSE"
       SPAWN_NPCS: "FALSE"
@@ -42,6 +45,7 @@ services:
     volumes:
       - ${LOBBY_DIR}:/data
       - ./plugins/smp:/plugins
+      - ${SMP_PLUGINS_FILE}:/extras/mods.txt:ro
     depends_on:
       - proxy
     networks:
@@ -60,6 +64,7 @@ services:
       ONLINE_MODE: "FALSE"
       MAX_PLAYERS: 75
       MOTD: "§cCMCThrowback SMPOnline §oSeason 1 Server"
+      MODS_FILE: /extras/mods.txt
       ALLOW_RCON: ${ALLOW_RCON}
     tty: true
     stdin_open: true
@@ -67,6 +72,7 @@ services:
     volumes:
       - ${S1_DIR}:/data
       - ./plugins/smp:/plugins
+      - ${SMP_PLUGINS_FILE}:/extras/mods.txt:ro
     depends_on:
       - proxy
     networks:
@@ -85,6 +91,7 @@ services:
       ONLINE_MODE: "FALSE"
       MAX_PLAYERS: 75
       MOTD: "§bCMCThrowback SMPOnline §oSeason 2 Server"
+      MODS_FILE: /extras/mods.txt
       ALLOW_RCON: ${ALLOW_RCON}
     tty: true
     stdin_open: true
@@ -92,6 +99,7 @@ services:
     volumes:
       - ${S2_DIR}:/data
       - ./plugins/smp:/plugins
+      - ${SMP_PLUGINS_FILE}:/extras/mods.txt:ro
     depends_on:
       - proxy
     networks:

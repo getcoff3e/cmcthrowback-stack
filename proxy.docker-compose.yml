@@ -7,10 +7,12 @@ services:
     environment:
       DEBUG: ${DEBUG_MODE}
       TYPE: VELOCITY
+      MODS_FILE: /extras/mods.txt
       ALLOW_RCON: ${ALLOW_RCON}
-    ports:
-      - "${PROXY_PORT}:25577"
     restart: unless-stopped
     volumes:
       - ./proxy:/server
       - ./plugins/velocity:/plugins
+      - ${SMP_PLUGINS_FILE}:/extras/mods.txt:ro
+    ports:
+      - "${PROXY_PORT}:25577"

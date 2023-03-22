@@ -1,3 +1,6 @@
+version: '3.5'
+
+services:
   mclobby:
     image: itzg/minecraft-server:latest
     container_name: mclobby
@@ -11,18 +14,18 @@
       GAMEMODE: ADVENTURE
       MAX_PLAYERS: 150
       MOTD: "§cCMCThrowback SMPOnline Lobby"
+      MODS_FILE: /extras/mods.txt
       ALLOW_RCON: ${ALLOW_RCON}
       ALLOW_NETHER: "FALSE"
       SPAWN_NPCS: "FALSE"
       SPAWN_ANIMALS: "FALSE"
       SPAWN_MONSTERS: "FALSE"
-    ports:
-      - ${LOBBY_PORT}:25565
     tty: true
     stdin_open: true
     restart: unless-stopped
     volumes:
       - ${LOBBY_DIR}:/data
       - ./plugins/smp:/plugins
-    depends_on:
-      - proxy
+      - ${SMP_PLUGINS_FILE}:/extras/mods.txt:ro
+    ports:
+      - ${LOBBY_PORT}:25565

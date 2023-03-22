@@ -14,16 +14,14 @@ services:
       MAX_PLAYERS: 75
       MOTD: "§cCMCThrowback SMPOnline §oSeason 1 Server"
       ALLOW_RCON: ${ALLOW_RCON}
-    ports:
-      - ${S1_PORT}:25565
     tty: true
     stdin_open: true
     restart: unless-stopped
     volumes:
       - ${S1_DIR}:/data
       - ./plugins/smp:/plugins
-    depends_on:
-      - proxy
+    ports:
+      - ${S1_PORT}:25565
 
   mc-s2:
     container_name: mc-s2
@@ -38,13 +36,11 @@ services:
       MAX_PLAYERS: 75
       MOTD: "§bCMCThrowback SMPOnline §oSeason 2 Server"
       ALLOW_RCON: ${ALLOW_RCON}
-    ports:
-      - ${S2_DIR}:25565
     tty: true
     stdin_open: true
     restart: unless-stopped
     volumes:
       - ${S2_DIR}:/data
       - ./plugins/smp:/plugins
-    depends_on:
-      - proxy
+    ports:
+      - ${S2_DIR}:25565
