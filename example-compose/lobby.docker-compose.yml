@@ -15,6 +15,7 @@ services:
       MAX_PLAYERS: 150
       MOTD: "§cCMCThrowback SMPOnline Lobby"
       MODS_FILE: /extras/mods.txt
+      REMOVE_OLD_MODS: TRUE
       ALLOW_RCON: ${ALLOW_RCON}
       ALLOW_NETHER: "FALSE"
       SPAWN_NPCS: "FALSE"
