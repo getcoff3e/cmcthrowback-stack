@@ -7,13 +7,11 @@ services:
     environment:
       MARIADB_ROOT_PASSWORD: minecraft
       MARIADB_DATABASE: lpdb
-#      MARIADB_USER: luckperms
-      MARIADB_PASSWORD: minecraft
     restart: unless-stopped
     volumes:
-       - '/mnt/mariadb:/var/lib/mysql'
-    ports:
-      - "3306:3306"
+       - './config/mariadb:/var/lib/mysql'
+    #ports:
+    #  - "3306:3306"    # used for an external DB admin manager thingy doo-dad
     networks:
       carsonet:
         ipv4_address: 172.20.0.2
@@ -33,7 +31,7 @@ services:
     volumes:
       - ${PROXY_DIR}:/server
       - ${PROXY_PLUGINS_FILE}:/extras/mods.txt:ro
-      - ./plugins/bungee:/plugins
+      - ./extra-plugins/bungee:/plugins
     ports:
       - "${PROXY_PORT}:25577"
     depends_on:
@@ -71,7 +69,7 @@ services:
       - ${LOBBY_DIR}:/data
 #      - ./plugins/smp:/plugins
       - ${LOBBY_PLUGINS_FILE}:/extras/mods.txt:ro
-      - ./plugins/lobby:/plugins
+      - ./extra-plugins/lobby:/plugins
 #    ports:
 #      - ${LOBBY_PORT}:25565
     depends_on:
@@ -104,7 +102,7 @@ services:
       - ${S1_DIR}:/data
 #      - ./plugins/smp:/plugins
       - ${SMP_PLUGINS_FILE}:/extras/mods.txt:ro
-      - ./plugins/s1:/plugins
+      - ./extra-plugins/s1:/plugins
     ports:
 #      - ${S1_PORT}:25565
       - 8100:8100    # BlueMap
@@ -137,7 +135,7 @@ services:
     volumes:
       - ${S2_DIR}:/data
       - ${SMP_PLUGINS_FILE}:/extras/mods.txt:ro
-      - ./plugins/s2:/plugins
+      - ./extra-plugins/s2:/plugins
     ports:
 #      - ${S2_PORT}:25565
       - 8200:8100
