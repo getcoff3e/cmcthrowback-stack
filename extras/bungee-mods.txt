@@ -1,0 +1,6 @@
+# Luckperms
+https://download.luckperms.net/1478/bungee/loader/LuckPerms-Bungee-5.4.67.jar
+# BungeeGuard
+https://github.com/lucko/BungeeGuard/releases/download/v1.3.3/BungeeGuard.jar
+# PlasmoVoice
+https://github.com/plasmoapp/plasmo-voice/releases/download/2.0.2/PlasmoVoice-BungeeCord-2.0.2.jar

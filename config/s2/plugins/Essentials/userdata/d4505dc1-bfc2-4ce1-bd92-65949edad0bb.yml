@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 24.178.26.115
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1680556936489
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1680558301627
+  login: 1680551053070
+money: '0'
+last-account-name: Carrotter
+lastlocation:
+  world: 11db8906-7523-49f4-aa31-87c1ae666c6b
+  world-name: world
+  x: -13537.80368835365
+  y: 70.5
+  z: -14982.875372308246
+  yaw: 88.09359741210938
+  pitch: 6.150204181671143
+logoutlocation:
+  world: 11db8906-7523-49f4-aa31-87c1ae666c6b
+  world-name: world
+  x: 867.551386745921
+  y: 66.5
+  z: -2725.37477093564
+  yaw: -169.86428833007812
+  pitch: -1.199894905090332

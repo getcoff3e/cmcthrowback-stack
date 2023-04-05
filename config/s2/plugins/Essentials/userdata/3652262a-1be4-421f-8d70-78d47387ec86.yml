@@ -1,0 +1,41 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.56.152.228
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1680556765037
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1680590630196
+  login: 1680589170636
+money: '0'
+last-account-name: Enstrayed
+lastlocation:
+  world: 7998d767-5c88-482d-9791-411c61efad39
+  world-name: world_nether
+  x: -1826.3893898991373
+  y: 24.0
+  z: -1966.5149281962867
+  yaw: 93.06715393066406
+  pitch: 38.12578582763672
+logoutlocation:
+  world: caaa4114-9dfd-4baf-a464-759fa67ddf7c
+  world-name: world_the_end
+  x: 202.10675027349274
+  y: 11.0625
+  z: -26.15623072617799
+  yaw: 92.031982421875
+  pitch: 2.5868353843688965
+powertools:
+  stick:
+  - smite coff3e

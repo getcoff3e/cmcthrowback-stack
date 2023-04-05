@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.56.152.228
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1680589160973
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1680589170629
+  login: 1680589155603
+money: '0'
+last-account-name: Enstrayed
+lastlocation:
+  world: e78e8ef8-e80a-481b-830a-1c3adc881a05
+  world-name: world
+  x: 13.0
+  y: 104.0447679954834
+  z: -28.5
+  yaw: -110.16986846923828
+  pitch: 43.06365203857422
+logoutlocation:
+  world: e78e8ef8-e80a-481b-830a-1c3adc881a05
+  world-name: world
+  x: 13.0
+  y: 102.09044745325997
+  z: -28.5
+  yaw: 0.0
+  pitch: 0.0

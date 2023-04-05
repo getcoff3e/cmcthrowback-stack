@@ -1,0 +1,207 @@
+[22:31:11]: JOIN > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has joined the network!
+[22:31:18]: SWITCH > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has moved to the §cs2 §eserver!
+[22:32:12]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /server lobby
+[22:32:12]: SWITCH > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has moved to the §clobby §eserver!
+[22:32:16]: LOCAL > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): t
+[22:32:23]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp editor
+[22:34:11]: LOCAL > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): t
+[22:34:12]: LEAVE > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has left the network!
+[22:34:14]: JOIN > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has joined the network!
+[22:34:17]: LOCAL > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): t
+[22:34:21]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp sync
+[22:34:25]: LOCAL > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): t
+[22:36:27]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp networksync
+[22:36:30]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp update
+[22:36:30]: LOCAL > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): t
+[22:36:55]: LOCAL > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): t
+[22:37:08]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp applyedits K9GUFf3NC7
+[22:37:16]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp editor
+[22:38:40]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp group default meta addprefix 100 "&m&6
+[22:38:42]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp group default meta addprefix 100 "&m&6"
+[22:38:44]: LOCAL > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): t
+[22:39:03]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp group admin meta removeprefix 100
+[22:39:03]: LOCAL > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): t
+[22:39:09]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp group default meta removeprefix 100
+[22:39:10]: LOCAL > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): t
+[22:39:11]: LOCAL > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): t
+[22:39:13]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp networksync
+[22:39:14]: LOCAL > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): t
+[22:39:35]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp group default meta addprefix 100 "&l&6"
+[22:39:36]: LOCAL > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): t
+[22:39:42]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp networksync
+[22:39:44]: LOCAL > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): t
+[22:39:45]: LOCAL > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): t
+[22:39:50]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp group default meta addprefix 100 "&6&l"
+[22:39:54]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp group default meta removeprefix 100
+[22:39:56]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp group default meta addprefix 100 "&6&l"
+[22:39:57]: LOCAL > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): t
+[22:39:59]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp networksync
+[22:40:07]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp group default meta removeprefix 100
+[22:40:14]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp group default meta addprefix 100 "&e&l"
+[22:40:15]: LOCAL > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): t
+[22:40:18]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp networksync
+[22:40:20]: LOCAL > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): t
+[22:40:28]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tab
+[22:40:30]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tabtps
+[22:40:34]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tabtps toggle
+[22:40:39]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tabtps toggle tab
+[22:40:50]: SWITCH > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has moved to the §cs2 §eserver!
+[22:41:00]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /return
+[22:41:06]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /server lobby
+[22:41:06]: SWITCH > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has moved to the §clobby §eserver!
+[22:41:09]: LOCAL > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): t
+[22:41:11]: SWITCH > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has moved to the §cs2 §eserver!
+[22:41:14]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): t
+[22:41:18]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /server lobby
+[22:41:18]: SWITCH > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has moved to the §clobby §eserver!
+[22:42:38]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp applyedits 504useD0Ta
+[22:42:40]: LOCAL > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): t
+[22:42:50]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp applyedits vfD1hDehN3
+[22:42:57]: LOCAL > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): t
+[22:42:59]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp editor
+[22:43:16]: LOCAL > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): t
+[22:43:33]: LOCAL > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): t
+[22:43:44]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp networksync
+[22:43:45]: LOCAL > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): t
+[22:43:47]: LOCAL > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): t
+[22:44:05]: LOCAL > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): t
+[22:45:42]: LOCAL > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): t
+[22:45:45]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp networksync
+[22:45:48]: LOCAL > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): t
+[22:46:00]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp networksync
+[22:46:01]: LOCAL > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): t
+[22:47:26]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /essentials:antioch
+[22:47:44]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /clear
+[22:48:50]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /clear
+[22:50:48]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /clear
+[22:50:55]: SWITCH > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has moved to the §cs2 §eserver!
+[22:51:16]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /server lobby
+[22:51:16]: SWITCH > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has moved to the §clobby §eserver!
+[22:52:35]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /clear
+[22:53:12]: SWITCH > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has moved to the §cs2 §eserver!
+[22:53:16]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /server lobby
+[22:53:17]: SWITCH > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has moved to the §clobby §eserver!
+[22:53:20]: SWITCH > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has moved to the §cs2 §eserver!
+[22:53:24]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /server lobby
+[22:53:24]: SWITCH > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has moved to the §clobby §eserver!
+[22:53:52]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /simpleportals addcommand s2
+[22:53:55]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /simpleportals addcommand
+[22:54:00]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /portals sm
+[22:54:11]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /portals setlocation s1
+[22:54:15]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /portals create s1
+[22:54:18]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /portals setlocation s1 s1
+[22:54:37]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): //wand
+[22:54:48]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): //replace air water
+[22:54:59]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): //replace air water
+[22:55:30]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /setworldspawn
+[22:56:45]: SWITCH > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has moved to the §cs2 §eserver!
+[22:56:51]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /server lobby
+[22:56:51]: SWITCH > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has moved to the §clobby §eserver!
+[22:56:57]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /portals addcommand
+[22:56:58]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /portals addcommands1
+[22:57:00]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /portals addcommand s1
+[22:57:16]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): //unfo
+[22:57:19]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): //wnad
+[22:57:20]: LOCAL > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): t
+[22:57:21]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): //wand
+[22:57:27]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /portal delete s1
+[22:57:28]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /portal delete s2
+[22:57:51]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): //replace water air
+[22:57:59]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): //replace water air
+[22:58:04]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /portals sm
+[22:58:09]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /portals create
+[22:58:10]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /portals create s1
+[22:58:17]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /portals fill water
+[22:58:20]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /portals fill s1 water
+[22:58:30]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /portals fill s1 nether_portal
+[22:58:42]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /portals sm
+[22:58:51]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /portals create s2
+[22:58:59]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /portal fill s2 nether_portal
+[22:59:13]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /portal setserver s1 s1
+[22:59:22]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /portal switchserver s1 s1
+[22:59:25]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /portal switchserver s2 s2
+[22:59:43]: SWITCH > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has moved to the §cs2 §eserver!
+[22:59:48]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /server lobby
+[22:59:48]: SWITCH > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has moved to the §clobby §eserver!
+[23:00:59]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp group default permission set essentials.fly true server=lobby
+[23:01:16]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp group default permission set essentials.spawn-on-join true server=lobby
+[23:01:24]: SWITCH > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has moved to the §cs2 §eserver!
+[23:01:29]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /server lobby
+[23:01:29]: SWITCH > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has moved to the §clobby §eserver!
+[23:01:37]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /spawn
+[23:01:42]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp editor
+[23:03:50]: SWITCH > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has moved to the §cs2 §eserver!
+[23:03:53]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /spawn
+[23:04:09]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /pluginmanager download spigot 91235
+[23:04:14]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /pluginmanager download spigot 91235 EpicCurrency.jar
+[23:04:22]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /serversd
+[23:04:23]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /servers
+[23:04:24]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /server
+[23:04:26]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /server s1
+[23:05:13]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /pluginmanager enable EpicCurrency.jar
+[23:05:17]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /pluginmanager load EpicCurrency.jar
+[23:05:21]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /epiccurrency
+[23:05:41]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): main
+[23:05:59]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): main
+[23:06:09]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): main
+[23:06:10]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): name: main
+[23:06:27]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /deposit
+[23:06:30]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /epiccurrency
+[23:07:03]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /server s1
+[23:07:14]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp editor
+[23:07:34]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /restart
+[23:07:34]: LEAVE > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has left the network!
+[23:07:50]: JOIN > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has joined the network!
+[23:08:05]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp applyedits FLKo8XbEXt
+[23:08:12]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp editor
+[23:08:22]: LOCAL > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): t
+[23:08:24]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /kill coff3e
+[23:08:36]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /portals
+[23:08:54]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /spawn
+[23:09:00]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /plugins
+[23:09:38]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /spawn
+[23:09:40]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /clear
+[23:11:09]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /portals setlocation
+[23:11:21]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /portals setlocation s2 s2
+[23:11:29]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /portals setlocation s1 s1
+[23:11:41]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /spawn
+[23:11:49]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /portals fill s2 nether_portal
+[23:12:02]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /portals fill s2 end_portal
+[23:12:19]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /portals fill s2 nether_portal
+[23:12:54]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /server s2
+[23:14:51]: LEAVE > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has left the network!
+[23:15:37]: JOIN > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has joined the network!
+[23:15:41]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /spawn
+[23:15:42]: LOCAL > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): t
+[23:15:50]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp editor
+[23:16:39]: LOCAL > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): tt
+[23:16:41]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp networksync
+[23:18:42]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /server s2
+[23:18:43]: SWITCH > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has moved to the §cs2 §eserver!
+[23:18:49]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): t
+[23:18:59]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp editor
+[23:19:24]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tabtps memory
+[23:19:27]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tabtps:memory
+[23:19:36]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tabtps:pingall
+[23:19:41]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tabtps:ram
+[23:19:45]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tabtps:tabtps
+[23:19:48]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tabtps:tabtps about
+[23:19:51]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tabtps:tabtpshelp
+[23:22:12]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /speed 1
+[23:23:30]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gamemode spectator
+[23:24:33]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gamemode survival
+[23:26:36]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gamemode creator
+[23:26:55]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): //wand
+[23:29:02]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /worldguard rg
+[23:29:05]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /worldguard coff3e
+[23:29:11]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /worldguard chunk
+[23:29:24]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /essentials setspawn
+[23:32:39]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /worldguard region
+[23:32:43]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /worldguard start
+[23:32:49]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /worldguard running
+[23:32:53]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /region create
+[23:33:04]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /region create spawn
+[23:33:23]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /speed 2
+[23:33:25]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /speed 3
+[23:33:32]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /speed 5
+[23:34:33]: LEAVE > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has left the network!

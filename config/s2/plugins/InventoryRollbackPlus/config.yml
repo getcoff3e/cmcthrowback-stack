@@ -1,0 +1,26 @@
+enabled: true
+folder-location: DEFAULT
+mysql:
+  enabled: false
+  details:
+    host: 127.0.0.1
+    port: 3306
+    database: inventory_rollback
+    table-prefix: backup_
+    username: username
+    password: password
+    use-SSL: true
+    verifyCertificate: true
+    allowPubKeyRetrieval: false
+restore-to-player-button: false
+backup-lines-visible: 1
+max-saves:
+  join: 10
+  quit: 10
+  death: 50
+  world-change: 10
+  force: 10
+time-zone: GMT
+time-format: dd/MM/yyyy HH:mm:ss a
+update-checker: true
+bStats: true

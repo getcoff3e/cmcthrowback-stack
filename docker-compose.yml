@@ -1,0 +1,155 @@
+version: '3.5'
+
+services:
+  db:
+    image: 'mariadb:latest'
+    container_name: cmc-mariadb
+    environment:
+      MARIADB_ROOT_PASSWORD: minecraft
+      MARIADB_DATABASE: lpdb
+#      MARIADB_USER: luckperms
+      MARIADB_PASSWORD: minecraft
+    restart: unless-stopped
+    volumes:
+       - '/mnt/mariadb:/var/lib/mysql'
+    ports:
+      - "3306:3306"
+    networks:
+      carsonet:
+        ipv4_address: 172.20.0.2
+
+  mcproxy:
+    image: itzg/bungeecord:latest
+    container_name: mcproxy
+    environment:
+      DEBUG: ${DEBUG_MODE}
+      TYPE: WATERFALL
+      MODS_FILE: /extras/mods.txt
+      REMOVE_OLD_MODS: ${RM_OLD_PLUGINS}
+      ALLOW_RCON: ${ALLOW_RCON}
+    tty: true
+    stdin_open: true
+    restart: unless-stopped
+    volumes:
+      - ${PROXY_DIR}:/server
+      - ${PROXY_PLUGINS_FILE}:/extras/mods.txt:ro
+      - ./plugins/bungee:/plugins
+    ports:
+      - "${PROXY_PORT}:25577"
+    depends_on:
+      - db
+    networks:
+      carsonet:
+        ipv4_address: 172.20.0.3
+
+  mclobby:
+    image: itzg/minecraft-server:latest
+    container_name: mclobby
+    environment:
+      DEBUG: ${DEBUG_MODE}
+      EULA: "TRUE"
+      MEMORY: 2G
+      VERSION: "1.17.1"
+      TYPE: "PUFFERFISH"
+      ICON: ${SRV_ICON}
+      OVERRIDE_ICON: ${OVERRIDE_ICON}
+      ONLINE_MODE: "FALSE"
+      GAMEMODE: ADVENTURE
+      MAX_PLAYERS: 150
+      MOTD: "§cCMCThrowback SMPOnline Lobby"
+      MODS_FILE: /extras/mods.txt
+      REMOVE_OLD_MODS: ${RM_OLD_PLUGINS}
+      ALLOW_RCON: ${ALLOW_RCON}
+      ALLOW_NETHER: "FALSE"
+      SPAWN_NPCS: "FALSE"
+      SPAWN_ANIMALS: "FALSE"
+      SPAWN_MONSTERS: "FALSE"
+    tty: true
+    stdin_open: true
+    restart: unless-stopped
+    volumes:
+      - ${LOBBY_DIR}:/data
+#      - ./plugins/smp:/plugins
+      - ${LOBBY_PLUGINS_FILE}:/extras/mods.txt:ro
+      - ./plugins/lobby:/plugins
+#    ports:
+#      - ${LOBBY_PORT}:25565
+    depends_on:
+      - mcproxy
+    networks:
+      carsonet:
+        ipv4_address: 172.20.0.4
+
+  mc-s1:
+    container_name: mc-s1
+    image: itzg/minecraft-server:latest
+    environment:
+      DEBUG: ${DEBUG_MODE}
+      EULA: "TRUE"
+      MEMORY: 5G
+      VERSION: "1.17.1"
+      TYPE: "PUFFERFISH"
+      ICON: ${SRV_ICON}
+      ONLINE_MODE: "FALSE"
+      MAX_PLAYERS: 75
+      MOTD: "§aCMCThrowback SMPOnline §oSeason 1 Server"
+      MODS_FILE: /extras/mods.txt
+      WORLD: ${S1_WORLD_URL}
+      REMOVE_OLD_MODS: ${RM_OLD_PLUGINS}
+      ALLOW_RCON: ${ALLOW_RCON}
+    tty: true
+    stdin_open: true
+    restart: unless-stopped
+    volumes:
+      - ${S1_DIR}:/data
+#      - ./plugins/smp:/plugins
+      - ${SMP_PLUGINS_FILE}:/extras/mods.txt:ro
+      - ./plugins/s1:/plugins
+    ports:
+#      - ${S1_PORT}:25565
+      - 8100:8100    # BlueMap
+    depends_on:
+      - mcproxy
+    networks:
+      carsonet:
+        ipv4_address: 172.20.0.5
+
+  mc-s2:
+    container_name: mc-s2
+    image: itzg/minecraft-server:latest
+    environment:
+      DEBUG: ${DEBUG_MODE}
+      EULA: "TRUE"
+      MEMORY: 5G
+      VERSION: "1.18.2"
+      TYPE: "PUFFERFISH"
+      ICON: ${SRV_ICON}
+      ONLINE_MODE: "FALSE"
+      MAX_PLAYERS: 75
+      MOTD: "§bCMCThrowback SMPOnline §oSeason 2 Server"
+      MODS_FILE: /extras/mods.txt
+      WORLD: ${S2_WORLD_URL}
+      REMOVE_OLD_MODS: ${RM_OLD_PLUGINS}
+      ALLOW_RCON: ${ALLOW_RCON}
+    tty: true
+    stdin_open: true
+    restart: unless-stopped
+    volumes:
+      - ${S2_DIR}:/data
+      - ${SMP_PLUGINS_FILE}:/extras/mods.txt:ro
+      - ./plugins/s2:/plugins
+    ports:
+#      - ${S2_PORT}:25565
+      - 8200:8100
+    depends_on:
+      - mcproxy
+    networks:
+      carsonet:
+        ipv4_address: 172.20.0.6
+
+networks:
+  carsonet:
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 172.20.0.0/24

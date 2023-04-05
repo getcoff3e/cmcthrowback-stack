@@ -1,0 +1,7 @@
+language: English
+default-currency: New Currency
+commands-alias:
+  bank: ebank
+  deposit: edeposit
+  pay: epay
+  withdraw: ewithdraw

@@ -1,0 +1,1465 @@
+[02:19:23]: JOIN > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has joined the network!
+[02:19:33]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /spawn
+[02:20:37]: SWITCH > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has moved to the §cs2 §eserver!
+[02:21:08]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /speed 1
+[02:23:04]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): t
+[02:23:07]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /deop cof
+[02:23:12]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gamemode survival
+[02:23:29]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp editor
+[02:24:06]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /kits
+[02:24:10]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /rmkit *
+[02:24:12]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /rmkit firework
+[02:24:14]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /rmkit color
+[02:24:17]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /rmkit Notch
+[02:24:20]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /rmkit dtools
+[02:24:23]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /rmkit tools
+[02:25:33]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /coreprotect
+[02:25:44]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gamemode creative
+[02:25:46]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): //wand
+[02:25:51]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /plugins
+[02:29:45]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warp CapitalCity
+[02:30:04]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warp Carrotthia
+[02:30:21]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /clear
+[02:30:28]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /worldguard:region
+[02:32:03]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /poweroff
+[02:32:06]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /stop
+[02:32:06]: LEAVE > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has left the network!
+[02:33:09]: JOIN > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has joined the network!
+[02:33:41]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /spawn
+[02:33:44]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /world s2
+[02:33:47]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /worlds
+[02:33:49]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /world
+[02:33:51]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /world
+[02:33:58]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /spawn
+[02:34:06]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /server s2
+[02:34:10]: SWITCH > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has moved to the §cs2 §eserver!
+[02:34:18]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /plugins
+[02:44:13]: LEAVE > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has left the network!
+[02:45:16]: JOIN > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has joined the network!
+[02:45:27]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /spawn
+[02:45:30]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /server s2
+[02:45:37]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp networksync
+[02:45:38]: SWITCH > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has moved to the §cs2 §eserver!
+[02:45:48]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /plugins
+[02:45:54]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /pluginmanager
+[02:45:56]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /pluginmanager list
+[02:48:31]: LEAVE > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has left the network!
+[02:50:05]: JOIN > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has joined the network!
+[02:50:13]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /plugins
+[02:52:39]: LEAVE > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has left the network!
+[02:53:28]: JOIN > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has joined the network!
+[02:53:35]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /plugins
+[02:53:46]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /server s2
+[02:53:48]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /spawn
+[02:54:06]: SWITCH > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has moved to the §cs2 §eserver!
+[02:55:10]: LEAVE > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has left the network!
+[02:55:13]: JOIN > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has joined the network!
+[02:55:22]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gamemode survival
+[02:55:24]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /fly
+[02:55:26]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /deop cof3
+[02:55:28]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /deop coff3e
+[02:55:31]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /fly
+[02:55:32]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /fly
+[02:55:35]: LOCAL > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): t
+[02:56:37]: SWITCH > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has moved to the §cs2 §eserver!
+[02:56:41]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /plugins
+[02:57:15]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp editor
+[02:57:26]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /crashclaim reload
+[02:57:31]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /home
+[03:01:20]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): //wand
+[03:01:26]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /helpop
+[03:01:30]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): t
+[03:01:48]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): t
+[03:02:11]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): t
+[03:03:05]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /crashclaim
+[03:03:07]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /crashclaim heko
+[03:03:26]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /claim
+[03:07:13]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /server lobby
+[03:07:13]: SWITCH > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has moved to the §clobby §eserver!
+[03:07:17]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gamemode creative
+[03:07:18]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /spawn
+[03:08:23]: SWITCH > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has moved to the §cs2 §eserver!
+[03:08:53]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warp carsonsmpbase
+[03:08:57]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warp carsonsmpbase
+[03:08:59]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /awrps
+[03:09:00]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warps
+[03:09:02]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warp event
+[03:09:03]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warp events
+[03:10:20]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /server lobb
+[03:10:22]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /server lobb
+[03:10:23]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /server lobby
+[03:10:23]: SWITCH > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has moved to the §clobby §eserver!
+[03:10:29]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /spawn
+[03:11:05]: LOCAL > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): why the fuck do you have stone tools
+[03:11:07]: LOCAL > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): oh maomy
+[03:11:09]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /kit
+[03:11:15]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /rmkit firework
+[03:11:17]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /rmkit color
+[03:11:19]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /rmkit notch
+[03:11:22]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /rmkit dtools
+[03:11:25]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /rmkit tools
+[03:11:26]: LOCAL > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): one sec
+[03:11:41]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp applyedits 9ZNF5cBSgx
+[03:11:44]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp applyedits 9ZNF5cBSgx --force
+[03:11:49]: LOCAL > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): try now
+[03:11:51]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp sync
+[03:11:55]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp networksync
+[03:12:02]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp editor
+[03:12:14]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp trusteditor f054-3d6f
+[03:15:22]: SWITCH > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has moved to the §cs2 §eserver!
+[03:15:25]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /kits
+[03:15:31]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /server lobby
+[03:15:31]: SWITCH > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has moved to the §clobby §eserver!
+[03:15:42]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /home
+[03:16:55]: LOCAL > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): oh hi
+[03:16:56]: LOCAL > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): uh
+[03:16:57]: LOCAL > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): hold on
+[03:17:39]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp applyedits cSiAyVHNPJ
+[03:18:04]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp applyedits ChkcQ2RBc1
+[03:18:07]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp applyedits ChkcQ2RBc1 --force
+[03:18:51]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp applyedits 836kxBXfgZ
+[03:19:02]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp applyedits CWGQApz6DB
+[03:19:35]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp applyedits e1ue0q3M55
+[03:19:38]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp applyedits e1ue0q3M55
+[03:19:47]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /luckperms editor
+[03:20:09]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gamemode
+[03:20:33]: LOCAL > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): t
+[03:20:35]: LOCAL > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): br
+[03:20:49]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp editor
+[03:21:05]: LOCAL > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): try now
+[03:21:09]: LOCAL > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): i just gave you admin
+[03:21:10]: LOCAL > lobby > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): eggs
+[03:21:13]: LOCAL > lobby > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): lol
+[03:21:16]: LOCAL > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): idk why fuckin
+[03:21:17]: LOCAL > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): its broken
+[03:21:20]: LOCAL > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): im so annoyed about it
+[03:21:23]: LOCAL > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): this shit sucks
+[03:21:29]: LOCAL > lobby > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): did you KISS it
+[03:21:33]: LOCAL > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): kill yoursefl
+[03:21:45]: SWITCH > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has moved to the §cs2 §eserver!
+[03:21:49]: SWITCH > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): §eEnstrayed has moved to the §cs2 §eserver!
+[03:21:49]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): t
+[03:21:56]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): t
+[03:21:57]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): pensi
+[03:22:01]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tp Enstrayed
+[03:22:14]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /gamemode creative
+[03:22:15]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): can you break anything in here
+[03:22:27]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): or talk
+[03:22:30]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): test
+[03:22:33]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): cant break anything
+[03:22:38]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): ok probably good
+[03:22:48]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): i think
+[03:22:51]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): essentialschat is hte problemn
+[03:23:01]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): wait its not even in this server
+[03:23:06]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tp Enstrayed
+[03:23:22]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): the server has plasmovoice but idk how to work it through bungeecord
+[03:23:41]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tp Enstrayed
+[03:23:51]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): none of these words are in the bible
+[03:24:02]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): what gamemode are you in
+[03:24:05]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): creative
+[03:24:08]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /gamemode survival
+[03:24:12]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): now surviv
+[03:24:13]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): did you do that yourself or did you join with it
+[03:24:17]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): did it myself
+[03:24:19]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): ok
+[03:24:26]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): that means cross server perms work then
+[03:24:26]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /gamemode survival coff3e
+[03:24:32]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /smite Enstrayed
+[03:24:37]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): bitch
+[03:24:37]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /fly
+[03:24:39]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): kek
+[03:24:45]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tp Enstrayed
+[03:24:57]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): wait holdon
+[03:25:15]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): ah yes
+[03:25:16]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /give @p stick{display:{Name:'[{"text":"Entity Deleter","italic":false}]'},Enchantments:[{id:sharpness,lvl:65535},{id:smite,lvl:65535}]}
+[03:25:20]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): what
+[03:25:27]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /give @p minecraft:stick{display:{Name:'[{"text":"Entity Deleter","italic":false}]'},Enchantments:[{id:sharpness,lvl:65535},{id:smite,lvl:65535}]}
+[03:25:36]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): damn it dont work
+[03:25:42]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): oh i see what you're doing
+[03:25:43]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): I have a command on my server /entitydeleter
+[03:25:46]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /invsee Enstrayed
+[03:25:51]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): most useful tool fr
+[03:25:53]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): lol what
+[03:26:02]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): would about a big knockback stick
+[03:26:09]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): yeah then commands.yml file lets you set command aliases
+[03:26:15]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp applyedits RPfIEmQIWB
+[03:26:16]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): knockback works only if its like off a cliff
+[03:26:19]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp applyedits RPfIEmQIWB --force
+[03:26:28]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): otherwise mobs/players just go into the nearest wall
+[03:26:34]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /gamemode creative
+[03:26:39]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): still funy thoug
+[03:26:42]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /gamemode survival
+[03:26:43]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /spectate Enstrayed
+[03:26:46]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gamemode spectator
+[03:26:47]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /spectate Enstrayed
+[03:26:53]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): now spectating enstrayed
+[03:26:54]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): troll
+[03:27:18]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): wait
+[03:27:20]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): im going to remove admin from you
+[03:27:25]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): tell me if you can talk or not
+[03:27:33]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp applyedits JC9rDAU1CM --force
+[03:27:35]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): o now
+[03:27:37]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): now
+[03:27:57]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): can you still talk
+[03:28:03]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): ffs
+[03:28:06]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): god dmanit
+[03:28:15]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp applyedits GVrDorV8JH --force
+[03:28:18]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): ok
+[03:28:28]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gamemode creative
+[03:28:44]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): test
+[03:28:50]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp editor
+[03:28:57]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): isnt there some weird permission shit you use
+[03:29:06]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): its just luckperms and a mariadb database
+[03:29:42]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /give @p minecraft:steak 2
+[03:29:50]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): isnt this 1.18 base
+[03:29:53]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): yea
+[03:29:55]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): damn
+[03:30:00]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): explains why nothing I normally run works kek
+[03:30:12]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): wait what do you mean base
+[03:30:25]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): im using viafabric so I didnt have to make a new instance for 1.18
+[03:30:34]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): so my client is 1.19.4
+[03:30:35]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): this should already have viaversion on it
+[03:30:42]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /plugins
+[03:30:46]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): yeah it has it
+[03:30:47]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): that would explain the lack of any blue signal in via
+[03:30:50]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): alr
+[03:31:20]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): god damn
+[03:31:31]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): i dont get it
+[03:31:48]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): egg
+[03:31:52]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): essentials.talk is there
+[03:31:56]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): for default
+[03:32:07]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): i have bungeechat
+[03:32:10]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): but idk how to work that
+[03:32:15]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): that shouldnt cause any problem
+[03:32:18]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tp Enstrayed
+[03:32:36]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /phase
+[03:32:38]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /thru
+[03:32:44]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): jesus the tps tanks
+[03:32:47]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tps
+[03:32:50]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): 15.9
+[03:32:56]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): from just moving around?
+[03:32:58]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gamemode spectator
+[03:33:01]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /spectate Enstrayed
+[03:33:02]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): at 40 bps but yeah
+[03:33:08]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tabtps toggle
+[03:33:08]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): do you have fastchunkpregenerator
+[03:33:10]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): no
+[03:33:13]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): id recommend
+[03:33:16]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): but all of these chunks should already be loaded
+[03:33:19]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tabtps toggle
+[03:33:21]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tabtps tab
+[03:33:23]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tabtps tab toggle
+[03:33:26]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): they were loading extremely slow
+[03:33:27]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tabtps toggle tab
+[03:33:35]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): which would indicate generating first time
+[03:33:57]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): well these ones arent
+[03:34:07]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): one sec
+[03:34:25]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): its probably because im loading bluemap at the same time
+[03:34:26]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /bluemap
+[03:34:30]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): let me stop it
+[03:34:33]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /bluemap stop
+[03:34:39]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): ok
+[03:34:41]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): now it should be better
+[03:34:47]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): tps is coming back up
+[03:35:04]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): oh thats immediately better yeah
+[03:35:12]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): yeah it was using 2 out of 3 threads to generate the page
+[03:35:20]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): still was going to take 81 hours
+[03:35:38]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): the builds on this server are really impressive
+[03:35:48]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): this is the smallest world lol
+[03:35:59]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): the other world is 200gb decompressed
+[03:36:01]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): this one is 50
+[03:36:03]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): damn
+[03:36:05]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): 58-ish
+[03:36:14]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gamemode creative
+[03:36:16]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /gamemode creative
+[03:36:21]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): why am i sitll invisible
+[03:36:23]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /kill coff3e
+[03:36:24]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /gamemode survival
+[03:36:26]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tp Enstrayed
+[03:36:29]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): bruh
+[03:36:30]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): oh
+[03:36:45]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): i want to see if bungeechat works out of the box
+[03:36:46]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): wait what am I doing
+[03:36:48]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): I have shaders
+[03:36:52]: LEAVE > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): §eEnstrayed has left the network!
+[03:36:55]: JOIN > lobby > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): §eEnstrayed has joined the network!
+[03:36:58]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): t
+[03:37:01]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): hel;lo?
+[03:37:07]: COMMAND > lobby > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /kill
+[03:37:10]: COMMAND > lobby > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /kill Enstrayed
+[03:37:14]: SWITCH > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): §eEnstrayed has moved to the §cs2 §eserver!
+[03:37:20]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): t
+[03:37:22]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): oh yeah
+[03:37:27]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tp Enstrayed
+[03:37:49]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): take a look at some of the warps
+[03:37:50]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warops
+[03:37:52]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warps
+[03:37:57]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warp Alexandria
+[03:38:08]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /warps
+[03:38:15]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /warp BigBenCity
+[03:38:28]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /warps
+[03:38:30]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): the fuck
+[03:38:36]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): uh oh
+[03:38:37]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): lmao
+[03:38:40]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /warp Coconut_Mall
+[03:38:41]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): did that cause damage
+[03:38:48]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): im not sure holdon
+[03:38:52]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /warp BigBenCity
+[03:38:54]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tp Enstrayed
+[03:38:59]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): ye
+[03:39:05]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): at least its in the middle of nowhere
+[03:39:13]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): omg one moment
+[03:39:28]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gamerule mobGriefing false
+[03:39:37]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tp Enstrayed
+[03:39:42]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /back
+[03:39:43]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /give @p stick{display:{Name:'[{"text":"Entity Deleter","italic":false}]'},Enchantments:[{id:sharpness,lvl:65535},{id:smite,lvl:65535}]} 1
+[03:39:44]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /speed 100
+[03:39:57]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /give @p stick{Enchantments:[{id:sharpness,lvl:65535},{id:smite,lvl:65535}]} 1
+[03:40:00]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): wait am i loading new chunks
+[03:40:11]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): there was a warp here
+[03:40:13]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): i totally am
+[03:40:13]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): bigbencity
+[03:40:15]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tp Enstrayed
+[03:40:16]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): oh
+[03:40:18]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): but theres nothing here
+[03:40:21]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /warp BigBenCity
+[03:40:21]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): not much of a city
+[03:40:22]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): here
+[03:40:23]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tp Enstrayed
+[03:40:24]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): yeah
+[03:40:26]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warp BigBenCity
+[03:40:27]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): wtf
+[03:40:40]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): thats really weird
+[03:40:53]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): alexandria just goes
+[03:40:54]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): to the voiud
+[03:40:57]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warp Alexandria
+[03:41:07]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warpinfo Alexandria
+[03:41:10]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /back
+[03:41:11]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /give @p stick{Enchantments:[{id:sharpness,lvl:65535},{id:smite,lvl:65535}]} 1
+[03:41:16]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): weird
+[03:41:16]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): like i cant place torches anywhere
+[03:41:23]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): idk where i am
+[03:41:33]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /tp @p coff3e
+[03:41:36]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): what the fuck
+[03:41:36]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /tp coff3e
+[03:41:41]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): gamemode spectator
+[03:41:45]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gamemode spectator
+[03:41:45]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /gamemode spectator
+[03:41:53]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): what
+[03:41:58]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): these warps are so screwed
+[03:42:03]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warp Aardappol
+[03:42:05]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): uhh yeah
+[03:42:07]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gamemode spectator
+[03:42:11]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gamemode creative
+[03:42:12]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /gamemode survival
+[03:42:13]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warp Almyst
+[03:42:24]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warp Carson_Land
+[03:42:29]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warp Carrotthia
+[03:42:37]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /balance
+[03:42:39]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /
+[03:42:47]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /deposit
+[03:42:50]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /plugins
+[03:42:57]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): oh yeah im missing an economy plugin
+[03:42:57]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): uck
+[03:43:18]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): the imagemaps also dont work
+[03:43:32]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): idk if it was like a proprietary plugin or what
+[03:43:57]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tp Enstrayed
+[03:44:13]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): woops
+[03:44:14]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): i feel bullied
+[03:44:14]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tp Enstrayed
+[03:44:19]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gamemode survival
+[03:44:58]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): harassment
+[03:45:43]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /fly
+[03:45:57]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): oh theres a house here
+[03:46:23]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /give @p stick
+[03:46:25]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): this is kinda cozy
+[03:46:32]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /give Enstrayed minecraft:stick
+[03:46:37]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /clear Enstrayed
+[03:46:49]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tp Enstrayed coff3e
+[03:47:00]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /give Enstrayed minecraft:stick{Enchantments:[{id:sharpness,lvl:65535},{id:smite,lvl:65535}]} 1
+[03:47:07]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): I simply do not understand.
+[03:47:10]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): what
+[03:47:14]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): oh you have that chair mod
+[03:47:20]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): its a plugin
+[03:47:28]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): plugin mod whatever
+[03:47:28]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): you can lay and sit on everything else too
+[03:47:35]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /sit
+[03:47:45]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lay
+[03:47:48]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): look
+[03:47:58]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): incredible
+[03:48:11]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lay
+[03:48:14]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): this is the wrong way
+[03:48:17]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): this is the wrong way
+[03:48:18]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lay
+[03:48:21]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lay
+[03:48:27]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): better
+[03:48:30]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /give Enstrayed minecraft:stick{Enchantments:[{id:sharpness,lvl:65535},{id:smite,lvl:65535}]} 1
+[03:48:46]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): this is like $10 to run on oracle btw
+[03:48:50]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): per month
+[03:48:51]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): ?
+[03:48:51]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): yeah
+[03:48:54]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): hmm
+[03:49:00]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): with 3 ampere cores and 16gb of ram
+[03:49:10]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): and 350gb of balanced tier ssd storage
+[03:49:19]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): thats pretty good
+[03:49:29]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): the real smponline server runs on an ovh dedi i think
+[03:49:34]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): and thats like $80 a month
+[03:49:36]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): at minimum
+[03:49:46]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): i think they have 2
+[03:50:21]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): yeah on hetzner $10 barely gets you a 4c/4gb vps on epyc
+[03:50:27]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): yep
+[03:50:40]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): and running bungee with more than 2 servers would be impossible
+[03:50:52]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): i can still get 4c 24gb i just have to delete my personal vm
+[03:51:21]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tp Enstrayed
+[03:51:24]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /give Enstrayed minecraft:stick 1
+[03:51:30]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): wait
+[03:51:35]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): did someone make a fake fallen down tree
+[03:51:39]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /speed 5
+[03:51:41]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /speed 2
+[03:51:50]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /give Enstrayed minecraft:stick{Enchantments:[{id:sharpness,lvl:1},{id:smite,lvl:1}]} 1 1
+[03:51:52]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): or wait
+[03:51:53]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /tp coff3e
+[03:51:59]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): someone just took all the laeves
+[03:52:01]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): laeves
+[03:52:02]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): leavae
+[03:52:03]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): fuck
+[03:52:08]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): lo
+[03:52:20]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): efficient use of resources
+[03:52:25]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): i never built anything on s2
+[03:52:34]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): i built a lot on s1 so it didnt feel great
+[03:53:07]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): ha
+[03:53:13]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): little shit
+[03:53:17]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): abyway
+[03:53:22]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): i guess i have a lot more things to fix than i thought
+[03:53:22]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): again
+[03:53:31]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): at least its mostly owrking
+[03:53:32]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /give @p steak 20
+[03:53:41]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tp Enstrayed
+[03:53:47]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /pt beecannon
+[03:53:51]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): who knows maybe people will be really down with not being able to talk
+[03:53:57]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): lol
+[03:54:07]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): I WIN
+[03:54:09]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tp Enstrayed
+[03:54:11]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): EVEN ON HALF A HEART
+[03:54:21]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /pt smite Enstrayed
+[03:54:32]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /tp coff3e
+[03:54:40]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): do you know the old powertool tick
+[03:54:42]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): trick
+[03:54:45]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): no
+[03:54:45]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): ./pt
+[03:54:47]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /pt
+[03:54:49]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /
+[03:54:51]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /pt
+[03:54:52]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): do ./pt smite coff3e
+[03:54:58]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /pt smite coff3e
+[03:55:00]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): on an item
+[03:55:03]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): ohhh
+[03:55:06]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): yeah
+[03:55:13]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): I was unaware of this
+[03:55:14]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): i remember this from old trolling videos
+[03:55:15]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): and never forgot
+[03:55:25]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): i dont think anyone else remembers it though
+[03:55:26]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /smite @e
+[03:55:45]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): ok not in
+[03:55:46]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): spawn
+[03:55:50]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): i dont awnt to break anything
+[03:55:56]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): ok
+[03:55:59]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /clear
+[03:56:02]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /pt
+[03:56:04]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): hmmm
+[03:57:12]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): oh
+[03:57:17]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): i think bungeechat works with a database too
+[03:57:22]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): or is supposed to
+[03:57:32]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gamemode creative
+[03:57:34]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /clear
+[03:57:36]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): what the fuck
+[03:57:42]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): come here
+[03:57:51]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): oh
+[03:57:51]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): huh
+[03:57:59]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): yeah theres barriers
+[03:58:11]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): I hate barrier blocks with a passion
+[03:58:22]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): cause they dont show up without you holding the item
+[03:58:23]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): ?
+[03:58:30]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): they dont even do that for me
+[03:58:32]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): lol
+[03:58:36]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /give @p barrier
+[03:58:44]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): yeah must be mods or something
+[03:58:46]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /clear
+[03:58:50]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): idk stkill issue
+[03:58:54]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): I think I can use an esp to view them thoguh
+[03:59:08]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): yes
+[03:59:57]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): bruh bungeechat had antiswear enabled
+[03:59:59]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): thats stupid
+[04:00:01]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): by default
+[04:00:02]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): ew
+[04:00:28]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): look in disc the way barriers are placed here is weird
+[04:00:41]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): just 3 random barriers here
+[04:01:29]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): incredible
+[04:01:30]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tp Enstrayed
+[04:01:34]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): oh what
+[04:01:42]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): theres barriers fucking everywhere
+[04:02:08]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gamemode spectator
+[04:02:17]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gamemode creative
+[04:02:20]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): who da hell
+[04:02:26]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /vclip -2
+[04:02:35]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): oh lord
+[04:02:37]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): uh
+[04:02:41]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): huh
+[04:02:48]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): someone had a world map here
+[04:02:51]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): and now its broken
+[04:02:56]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /tp coff2e
+[04:02:59]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /tp coff3e
+[04:03:13]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): oh
+[04:03:17]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): yeah
+[04:03:26]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): this server broken ahh hell
+[04:03:36]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): i landed on the fucking barriers
+[04:03:41]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /spawn
+[04:03:55]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): theres random barriers here too
+[04:03:58]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tp Enstrayed
+[04:04:06]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): bruh
+[04:04:16]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): who tf got these and just went to town
+[04:04:21]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): idk
+[04:04:27]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tp Enstrayed
+[04:04:32]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): oh yeah
+[04:04:34]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): more here kek
+[04:04:36]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): fomm
+[04:04:40]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tp Enstrayed
+[04:04:45]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): why
+[04:04:46]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): literally wy
+[04:04:48]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): fomm
+[04:04:53]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): fomm is a character
+[04:04:58]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): oh my god you fly so fast
+[04:05:00]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tp Enstrayed
+[04:05:04]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): :trollcat:
+[04:05:13]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): bkacp[ack
+[04:05:14]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): amogus
+[04:05:28]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): oh
+[04:05:34]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): das conkcreet babeee
+[04:06:18]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): i wonder where fommworld is
+[04:06:28]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): yoo a soccer field
+[04:06:29]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): what in the hell
+[04:06:34]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): nether is wild
+[04:06:38]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tp Enstrayed
+[04:06:44]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /tp coff3e
+[04:07:06]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): aight I need to get off for like 50 mins
+[04:07:09]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): k
+[04:07:10]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): cy
+[04:07:10]: LEAVE > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): §eEnstrayed has left the network!
+[04:07:52]: LEAVE > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has left the network!
+[08:18:34]: JOIN > lobby > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): §eEnstrayed has joined the network!
+[08:18:47]: COMMAND > lobby > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /kill
+[08:18:50]: COMMAND > lobby > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /kill Enstrayed
+[08:18:56]: SWITCH > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): §eEnstrayed has moved to the §cs2 §eserver!
+[08:21:53]: LEAVE > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): §eEnstrayed has left the network!
+[16:33:19]: JOIN > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has joined the network!
+[16:34:10]: LEAVE > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has left the network!
+[19:01:04]: JOIN > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has joined the network!
+[19:01:11]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): t
+[19:01:16]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): t
+[19:02:01]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /world
+[19:02:11]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /spawn
+[19:03:27]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /claer
+[19:03:28]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /clear
+[19:03:32]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gdplayerinfo
+[19:06:22]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /server lobby
+[19:06:23]: SWITCH > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has moved to the §clobby §eserver!
+[19:06:29]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /spawn
+[19:38:32]: SWITCH > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has moved to the §cs2 §eserver!
+[19:38:41]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /deop coff3e
+[19:38:43]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): t
+[19:38:48]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): //wand
+[19:39:08]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warp Carrotthia
+[19:39:44]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /sudo enstrayed
+[19:39:53]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /sudo enstrayed say hi
+[19:41:08]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /balance
+[19:41:10]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /deposit
+[19:41:17]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /epiccurrency
+[19:41:44]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /server lobby
+[19:41:45]: SWITCH > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has moved to the §clobby §eserver!
+[19:42:01]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /clear
+[19:42:03]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gamemode adventure
+[19:42:25]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /spin
+[19:42:52]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gamemode creative
+[19:42:56]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /spin
+[19:43:05]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tab
+[19:43:06]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /plugins
+[19:43:54]: LOCAL > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): Welcome.
+[19:43:58]: LOCAL > lobby > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): shalom
+[19:44:13]: LOCAL > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): the s2 world is right behind you
+[19:44:14]: SWITCH > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has moved to the §cs2 §eserver!
+[19:44:19]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tp Carrotter
+[19:44:22]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): oh thats a creeper
+[19:44:32]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): this is it
+[19:44:38]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): holy shit my stuff
+[19:44:44]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): yeah that stuff is included in the world files
+[19:44:47]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): unfortunately claims arent though
+[19:44:56]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): ender chest
+[19:45:06]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): dog
+[19:45:15]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): but
+[19:45:22]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): the claiming system should be pretty much the same
+[19:45:39]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): i also included plasmovoice on the server but im still figuring out how to make that work behind the proxy
+[19:45:56]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): you should be able to do /plugins
+[19:45:57]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /plugins
+[19:45:59]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): probably
+[19:46:02]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): i forgor
+[19:46:05]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp editor
+[19:46:23]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): hmm
+[19:46:43]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): ok if you werent before you can now
+[19:46:47]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): i fixed it
+[19:46:58]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): this is my first time setting up a legitmate minecraft server in like
+[19:47:00]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): 5 years
+[19:47:11]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): and never really at a scale with 3 servers
+[19:47:19]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): soon there'll be like a global chat
+[19:47:23]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /global test
+[19:47:23]: GLOBAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): test
+[19:47:24]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): oh
+[19:47:28]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): i think it works already
+[19:47:38]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): oh one thing i want to ask
+[19:47:46]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): were some of the warps just broken
+[19:47:49]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): on the og server
+[19:47:56]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): because theres 2 warps i know of that just dont go anywhere
+[19:48:00]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): not to my knowledge
+[19:48:03]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): huh
+[19:48:05]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): wacky
+[19:48:10]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warps
+[19:48:15]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): knew it
+[19:48:18]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): what
+[19:48:22]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): staff took my items and my alt's items
+[19:48:25]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): damn
+[19:48:27]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): certain books and the such
+[19:48:28]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): what did you have
+[19:48:35]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): aside from those books
+[19:48:48]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): like ten bottles of VX-9000
+[19:48:51]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): in my ender chest
+[19:48:57]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): if you know what that is
+[19:48:58]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): is that just a really powerful potion of harming
+[19:49:05]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): yes, I threw it on Carson twice
+[19:49:08]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): oh yeah
+[19:49:08]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): ban catalyst
+[19:49:11]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): right
+[19:49:35]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): im debating just keeping this world in the final version since its too much of a hassle to keep restoring
+[19:49:42]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): plus doesnt seem to be necessary
+[19:49:53]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): i think the world maps are broken though
+[19:49:56]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): image maps are too
+[19:50:01]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): i dont know how to fix that
+[19:50:03]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): yeah
+[19:50:07]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): oh well
+[19:50:34]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): how long did this place stick around for after you were banned
+[19:50:42]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): month
+[19:50:44]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): ah
+[19:50:52]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): just dying
+[19:50:56]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): i was fully prepared to see some stuff cut out
+[19:51:01]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): which would have sucked ass
+[19:51:06]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): this is what I made on my alt
+[19:51:27]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): how long until they noticed lol
+[19:51:35]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): few weeks I think
+[19:51:39]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): thats impressive
+[19:51:43]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): I wasn't very private about it either
+[19:51:45]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): lmao
+[19:51:52]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): it would not fly on the current server
+[19:52:00]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): definitely not
+[19:52:21]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): do you want to do an experiment for me
+[19:52:26]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): see if you can use the old claim commands
+[19:52:26]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): sure
+[19:52:30]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): like chunk claiming
+[19:52:43]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): I cannot
+[19:52:45]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): hmm
+[19:53:20]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): wacky
+[19:53:24]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /claim
+[19:53:27]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /claim off
+[19:53:29]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /claim
+[19:53:38]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): ill be looking into that
+[19:53:46]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp networksync
+[19:53:52]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /thru
+[19:53:54]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /thru
+[19:53:56]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /thru
+[19:54:00]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): ope
+[19:54:02]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): oh
+[19:54:06]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): awesome
+[19:54:17]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): whats down here
+[19:54:28]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): oh
+[19:54:30]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): hole
+[19:54:36]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): yeah that makes sense
+[19:54:48]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tp Carrotter
+[19:55:07]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): one moment
+[19:55:50]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /sudo Carrotter claim
+[19:55:52]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): oh
+[19:55:53]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): my bad
+[19:55:56]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /sudo Carrotter claim
+[19:56:12]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): ignore that
+[19:56:53]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warps
+[19:56:55]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warp Aardappol
+[19:56:59]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warp Alexandria
+[19:57:08]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warp Almyst
+[19:57:12]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warp Betterville
+[19:57:17]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warp BigBenCity
+[19:57:25]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warp BobTown
+[19:57:34]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warp carsonsmpbase
+[19:57:37]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warp Coconut_Mall
+[19:57:40]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warp CoolerTowne
+[19:57:47]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warp CoolTowne
+[19:57:58]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warp Copper
+[19:58:00]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warp Copper
+[19:58:01]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warp CopperCaverns
+[19:58:07]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warp CozyTown
+[19:58:12]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warp Crayola
+[19:58:20]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tabtps toggle
+[19:58:22]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tabtps toggle tab
+[19:58:35]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warp Dahg
+[19:58:36]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warp Dahg_Kuldor
+[19:58:41]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warp Dragon_City
+[19:58:44]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warps
+[19:58:45]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warp events
+[19:58:47]: COMMAND > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): /bal
+[19:58:51]: COMMAND > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): /baltop
+[19:58:53]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warp event
+[19:58:55]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warp home
+[19:58:57]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warp spawn
+[19:58:58]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /spawn
+[19:59:02]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tp Carrotter
+[19:59:14]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): yello
+[19:59:15]: LOCAL > s2 > ItsArchitekt(644db889-d135-4071-b0d6-33dd0ef9af27): alt
+[19:59:17]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): ah
+[19:59:36]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tp ItsArchitekt Carrotter
+[19:59:39]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): there you go
+[20:00:01]: LOCAL > s2 > ItsArchitekt(644db889-d135-4071-b0d6-33dd0ef9af27): trippy
+[20:00:01]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): battle of the ages
+[20:00:09]: LOCAL > s2 > ItsArchitekt(644db889-d135-4071-b0d6-33dd0ef9af27): take a picture of this
+[20:00:21]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): got it
+[20:00:25]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): perfect
+[20:00:28]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): send that to me
+[20:01:10]: LOCAL > s2 > ItsArchitekt(644db889-d135-4071-b0d6-33dd0ef9af27): that's awesome
+[20:01:12]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): lol
+[20:01:19]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): while you were brb i found another warp that was broken
+[20:01:20]: LOCAL > s2 > ItsArchitekt(644db889-d135-4071-b0d6-33dd0ef9af27): okay, how do I get to season 1
+[20:01:25]: LOCAL > s2 > ItsArchitekt(644db889-d135-4071-b0d6-33dd0ef9af27): hmm
+[20:01:27]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): season 1 is uhh in progress
+[20:01:40]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): like not working at all yet?
+[20:01:44]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): that's all good
+[20:01:49]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): the world download is like 150gb and 200gb decompressed
+[20:01:56]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): ay caramba
+[20:01:57]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): so im just working on this since its easier to rollback
+[20:02:00]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): only 50gb
+[20:02:02]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): 80gb decompressed
+[20:02:23]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): oh this is a really nerdy thing to be excited about
+[20:02:29]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): but this whole thing in production will only cost $10 a month
+[20:02:34]: LOCAL > s2 > ItsArchitekt(644db889-d135-4071-b0d6-33dd0ef9af27): oh dang
+[20:02:50]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): as opposed to the real smponline who uses ovh dedis and those are like $80 a month at minimum
+[20:03:01]: LOCAL > s2 > ItsArchitekt(644db889-d135-4071-b0d6-33dd0ef9af27): :skull:
+[20:03:02]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): yea
+[20:03:06]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): insane
+[20:03:20]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): and all of my cost is only for storage lol
+[20:03:25]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): not the machine itself
+[20:03:36]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gamemode spectator
+[20:03:39]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gamemode creative
+[20:03:46]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): wish the ender chest stuff saved
+[20:03:49]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): but i'll probably get season 1 up tonight
+[20:04:07]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): did they clear it or does that not usually carry over from world downloads
+[20:04:10]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): i would think they would
+[20:04:20]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): I think it should normally
+[20:04:26]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): wack so i guess they cleared it
+[20:04:39]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): I'm assuming they just cleared all my ender chests on every alt I used
+[20:05:00]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): i kind of wish i played a bit more on s2 but at the same time i think i was just burnt out from s1
+[20:05:08]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): world resets suck
+[20:05:18]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): Season 2 was awesome until I got banned
+[20:05:24]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): yeah i bet lol
+[20:05:26]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): it got better when Capital City was made
+[20:05:44]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): go ahead and warp to it
+[20:05:46]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warp CapitalCity
+[20:05:51]: COMMAND > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): /warp capital
+[20:06:00]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): the warps don't autofill for me, is that normal?
+[20:06:02]: COMMAND > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): /warpinfo
+[20:06:03]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): uhhhhhh
+[20:06:08]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): they do for me but i'll check it out
+[20:06:09]: COMMAND > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): /warp capital_city
+[20:06:17]: COMMAND > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): /warp carrotthia
+[20:06:32]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp sync
+[20:06:32]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): if I put in the name it works but it just doesn't fill in
+[20:06:33]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): oh
+[20:06:35]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): try now
+[20:06:36]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): carrotthia worked at least
+[20:06:41]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): awesome
+[20:06:44]: COMMAND > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): /warp CapitalCity
+[20:06:48]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): still working out permissions thing
+[20:06:52]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): kind of annoying
+[20:06:59]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): trophy is still here
+[20:07:01]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): awesome
+[20:07:04]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): awesome
+[20:07:07]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): sweet
+[20:07:09]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): what even is this
+[20:07:17]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): most well built city award
+[20:07:19]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): no i know but
+[20:07:21]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): its not a head
+[20:07:22]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): its something else
+[20:07:27]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): oh its honey isnt it
+[20:07:33]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): not sure
+[20:07:37]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): i havent played minecraft in a while
+[20:08:05]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): my main concern if this gets a couple of players are all this unclaimed land
+[20:08:29]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /epiccurrency
+[20:08:58]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): 100
+[20:08:59]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): nvm
+[20:09:03]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): epiccurrency sucks holy shit
+[20:09:30]: COMMAND > s2 > ItsArchitekt(644db889-d135-4071-b0d6-33dd0ef9af27): /warp CapitalCity
+[20:09:31]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): alexandria, bigbencity, and cooltowne all seem to be broken
+[20:09:42]: LOCAL > s2 > ItsArchitekt(644db889-d135-4071-b0d6-33dd0ef9af27): well this is alexandria
+[20:09:46]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): oh
+[20:10:01]: LOCAL > s2 > ItsArchitekt(644db889-d135-4071-b0d6-33dd0ef9af27): JHart handed over Alexandria to Thoreson and Capital City was made
+[20:10:04]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): i see
+[20:10:10]: LOCAL > s2 > ItsArchitekt(644db889-d135-4071-b0d6-33dd0ef9af27): Alexandria was basically nothing on Season 2
+[20:10:15]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): well then they definitely werent worldeditted out
+[20:10:22]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): maybe they're just corrupted warps
+[20:10:26]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): no idea whats up with that
+[20:10:58]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): hollup
+[20:11:03]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): what
+[20:11:18]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /fly Carrotter
+[20:11:22]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): gracias
+[20:11:26]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): welcome
+[20:11:48]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): oh wow
+[20:11:48]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): only grave they didn't remove of me
+[20:12:00]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): renamed strength pot
+[20:12:06]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gamemode spectator
+[20:12:10]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gamemode creative
+[20:12:18]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): nothing of note
+[20:12:22]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): hollup
+[20:12:27]: COMMAND > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): /lay
+[20:12:30]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): lol
+[20:12:31]: COMMAND > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): /lay
+[20:12:46]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): doesnt go any further than that
+[20:12:48]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): new bed
+[20:12:49]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): but let me take a screenshot
+[20:13:05]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): perfect
+[20:13:06]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /clear
+[20:13:26]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): yeah there you go
+[20:13:38]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): i think fomm came back on s4
+[20:13:42]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): or so i
+[20:13:45]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): fckl
+[20:13:51]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): heard
+[20:13:53]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): he used a neo-nazi femboy skin
+[20:14:00]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): lmao thoreson?
+[20:14:03]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): fomm
+[20:14:05]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): OH
+[20:14:10]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): thats fucking hilarious
+[20:14:10]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): like three years ago
+[20:14:17]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): did he get banned for just that or what
+[20:14:22]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): I don't think so
+[20:14:26]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): we just thought it was funny
+[20:14:33]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): or did people find out and he left carson style
+[20:14:46]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): I think Leak just looked at his skins and saw it one day
+[20:14:50]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): oh lol
+[20:14:56]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): what is this fucking song supposed to be
+[20:15:00]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): its terrible
+[20:15:01]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): no clue
+[20:15:27]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): huh
+[20:15:44]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): tell you what
+[20:15:56]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): im going to alt tab for like 5 minutes and get s1's world
+[20:16:01]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): alright
+[20:16:18]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): its probably going to take like 5 hours though because its going to go at like 2 mb/s
+[20:16:23]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): lol
+[20:19:44]: COMMAND > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): /warp Carrotthia
+[20:21:34]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): ok its going now
+[20:21:43]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): im doing it a stupid way but i dont care
+[20:21:45]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tp Carrotter
+[20:22:11]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): the garfieldplex
+[20:22:15]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): garf
+[20:22:24]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): there must have been an insane amount of work into this
+[20:22:27]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): yes
+[20:22:30]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): this is yuge
+[20:22:50]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): was the video tour of this after you were banned or before
+[20:22:58]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): after I bet
+[20:23:08]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): I don't think I ever actually saw that video
+[20:23:18]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): probably just didn't show Carrotthia in the background
+[20:23:21]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): yeah
+[20:23:23]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): thats about right
+[20:23:33]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): need food
+[20:23:35]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /feed Carrotter
+[20:23:42]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): danke
+[20:23:51]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): how did we have such little food supply
+[20:24:07]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): maybe no one put in the effort toward the end
+[20:24:12]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): well yeah
+[20:24:16]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tp Car
+[20:24:40]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): such a crazy story to me
+[20:25:00]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): have you heard about Poland on the new season of SMP Online?
+[20:25:01]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): how everything started going to shit after a splash potion
+[20:25:04]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): uhhh
+[20:25:07]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): maybe?
+[20:25:24]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): basically Carrotthia but they had no idea of Carrotthia and my existence
+[20:25:29]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): lmao
+[20:25:34]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): thats funny
+[20:25:40]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): i didnt really hear anything of it
+[20:25:40]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): when we told them all about Carrotthia and what happened, their minds were blown
+[20:26:22]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): i made a secretbase south of pog mt in the jungle
+[20:26:30]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): so i dont really have a waystone to look around the names of other places
+[20:26:36]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): warps are bye bye
+[20:26:40]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): yeah
+[20:26:49]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): which is actually pretty annoiying
+[20:26:59]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): gotta keep le world size small somehow i guess
+[20:27:03]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): nevermind that theres a world border
+[20:27:20]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): man the last time i was here
+[20:27:22]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): this was nothing
+[20:27:41]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): i dont even remember why i stopped playing
+[20:27:44]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): maybe i just lost interest
+[20:27:53]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): burn outs were common
+[20:28:02]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): i dont doubti t
+[20:28:07]: JOIN > lobby > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): §eEnstrayed has joined the network!
+[20:28:09]: LEAVE > lobby > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): §eEnstrayed has left the network!
+[20:28:10]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): oh
+[20:28:12]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): a friend
+[20:28:22]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): hes helping me test everything out
+[20:28:51]: JOIN > lobby > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): §eEnstrayed has joined the network!
+[20:28:53]: LEAVE > lobby > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): §eEnstrayed has left the network!
+[20:28:54]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): missile silo
+[20:28:56]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): bro
+[20:28:59]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): yeah
+[20:29:04]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): hold on a sec
+[20:29:18]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): ffs his game crashes everytime he joins
+[20:29:26]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): incredible
+[20:29:28]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tp Carrotter
+[20:29:34]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): why is this world map not broken
+[20:29:43]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): probably because it's an actual map
+[20:29:50]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): not just an image map
+[20:29:54]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): hmm
+[20:30:01]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /thru
+[20:30:02]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /thru
+[20:30:04]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /thru
+[20:30:06]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /thru
+[20:30:08]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gamemode spectator
+[20:30:14]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gamemode creative
+[20:30:48]: JOIN > lobby > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): §eEnstrayed has joined the network!
+[20:30:54]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /global hi
+[20:30:54]: GLOBAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): hi
+[20:30:55]: COMMAND > lobby > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /kill
+[20:30:58]: COMMAND > lobby > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /kill En
+[20:30:58]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /global can you see these messages
+[20:30:58]: GLOBAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): can you see these messages
+[20:31:01]: LOCAL > lobby > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): yes
+[20:31:02]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /global do /global
+[20:31:02]: GLOBAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): do /global
+[20:31:06]: COMMAND > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): /global
+[20:31:06]: COMMAND > lobby > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /global
+[20:31:09]: COMMAND > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): /global test
+[20:31:09]: GLOBAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): test
+[20:31:11]: GLOBAL > lobby > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): now talking in global chat
+[20:31:15]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /global hi babe
+[20:31:15]: GLOBAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): hi babe
+[20:31:17]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /global smooch
+[20:31:17]: GLOBAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): smooch
+[20:31:22]: GLOBAL > lobby > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): hello owo
+[20:31:24]: SWITCH > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): §eEnstrayed has moved to the §cs2 §eserver!
+[20:31:26]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /global kill yourself
+[20:31:26]: GLOBAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): kill yourself
+[20:31:30]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): heavens nah
+[20:31:32]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp editor
+[20:31:36]: GLOBAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): kek
+[20:31:38]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): dont worry not real
+[20:31:40]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /global
+[20:31:46]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /tp coff3e
+[20:31:59]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): ok
+[20:32:01]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp networksync
+[20:32:05]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): test
+[20:32:05]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): you're now regular user
+[20:32:08]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): and now you can talk
+[20:32:12]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): that was stupid
+[20:32:12]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): amazing
+[20:32:18]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): it works as intended waow
+[20:32:21]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): yeah
+[20:32:21]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): also
+[20:32:23]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): this is carrotter
+[20:32:28]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): a (former) actual player of smponline
+[20:32:29]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): whomst
+[20:32:30]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): hello
+[20:32:37]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): before a certain incident
+[20:32:47]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): oh ctae
+[20:32:49]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): tpa
+[20:32:50]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): to me
+[20:32:52]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): just to see
+[20:32:57]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /tpa coff3e
+[20:33:00]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tpaccept
+[20:33:01]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): ok good
+[20:33:04]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tpa Carrotter
+[20:33:08]: COMMAND > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): /tpaccept
+[20:33:16]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): he just went down a hole as soon as i tped
+[20:33:22]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): that hole is deep
+[20:33:24]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /fly Enstrayed
+[20:33:25]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /fly Enstrayed
+[20:33:29]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tp Enstrayed coff3e
+[20:33:31]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): ok
+[20:33:31]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): uh
+[20:33:43]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): actually i should bring you out to like the middle of nowhere before asking you to try claiming
+[20:33:45]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): whatever
+[20:33:56]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): can you try /claim
+[20:34:01]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): """enstrayed"""
+[20:34:02]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): sure
+[20:34:07]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /claim
+[20:34:12]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): permission error
+[20:34:13]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /claim
+[20:34:14]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): FUCK
+[20:34:27]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): ok tell you what
+[20:34:31]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): when i give you admin do /lp editor
+[20:34:43]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): ok
+[20:34:47]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): ok
+[20:34:51]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /lp editor
+[20:34:56]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /op coff3e
+[20:35:10]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): wait
+[20:35:12]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): this is stupid
+[20:35:16]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): you dont know anything about lp
+[20:35:27]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): uhhh
+[20:35:31]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): ok maybe i should just look this up
+[20:35:32]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): also carrotter
+[20:35:34]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): just between us
+[20:35:40]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): claimdefender is a paid plugin
+[20:35:42]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): and i did not pay for it
+[20:35:44]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): thats all ill say
+[20:35:49]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): incredible
+[20:35:53]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): we do a little trolling
+[20:35:53]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): griefdefender
+[20:35:54]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): my bad
+[20:35:57]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): blackspigot moment
+[20:36:10]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): how the hell do you implement a licensing system for minecraft server plugins
+[20:36:19]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): encrypted jars? product keys??
+[20:36:21]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): no idea but it didnt work out too well considering i got it off blackspigot
+[20:36:35]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): i think its a login system
+[20:36:43]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /clear
+[20:36:48]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): it probably depends
+[20:36:52]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): but that plugin is like $15
+[20:36:59]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): aint no way in hell man
+[20:37:21]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): server tps is low rn and I keep getting timeout warnings from my client
+[20:37:30]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tps
+[20:37:34]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): are you running that background task that is super resource intensive
+[20:37:37]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): bluemap is running yeah
+[20:37:39]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): but on one thread
+[20:37:40]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): ah ok
+[20:38:00]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): i thought bluemap would be like an instant thing but no it has to read the whole map and generate its own files
+[20:38:04]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /bluemap
+[20:38:08]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): ofc
+[20:38:10]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): which the current eta is 110 hours
+[20:38:16]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /give Enstrayed steak 2
+[20:39:29]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): what was i doing again
+[20:39:41]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): fixing permissions
+[20:39:44]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): oh yeah
+[20:39:49]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): cause /claim wasnt working
+[20:40:06]: COMMAND > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): /warp CapitalCity
+[20:40:30]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /warp bigbencity
+[20:40:47]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /warp bigbencity
+[20:40:51]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /gamemode creative
+[20:41:57]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp group default permission set griefdefender.user.*
+[20:42:00]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp networksync
+[20:42:12]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): do you get luckperms logs as admin
+[20:42:19]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): like [LP] stuff
+[20:42:20]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): yes
+[20:42:21]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): ahg
+[20:42:29]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gdreload
+[20:42:41]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /warp bigbencity
+[20:42:42]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): try now
+[20:42:43]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tp Enstrayed
+[20:42:48]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): try what now
+[20:42:51]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): claim
+[20:42:54]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): also bruh
+[20:42:55]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /claim
+[20:42:59]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): yeah it works
+[20:43:01]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): ok
+[20:43:02]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): cool
+[20:43:03]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): neat
+[20:43:03]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): but is it working because im admin
+[20:43:04]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): awesome
+[20:43:06]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): oh
+[20:43:07]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): true
+[20:43:08]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): uh
+[20:43:16]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /claim
+[20:43:16]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): do the command again and i'll bring you back to default
+[20:43:23]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /claim
+[20:43:29]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): ok
+[20:43:34]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): now
+[20:43:40]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /claim
+[20:43:44]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /claim
+[20:43:50]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): anything?
+[20:43:52]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): yeah it woreks
+[20:43:53]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): oh
+[20:43:55]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): awesome
+[20:43:55]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /claim
+[20:44:04]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): apparently they want you to use a wildcard *
+[20:44:06]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): instead of just
+[20:44:11]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): griefdefender.user
+[20:44:19]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /warp bigbencity
+[20:44:21]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): yeah i dont know what to do about these broken warps
+[20:44:25]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): theres 3 of them
+[20:44:59]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /global enstrayed is a bitch
+[20:44:59]: GLOBAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): enstrayed is a bitch
+[20:45:06]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): :)))
+[20:45:09]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): oh uh
+[20:45:19]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): you know how im still setting up s1 right
+[20:45:19]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): again
+[20:45:24]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): mhm
+[20:45:40]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): so i dont have enough space on the block volume to download, extract, and then remove it right
+[20:45:43]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): so im doing something stupid
+[20:45:51]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): im using sshfs over tailscale to my home server
+[20:45:56]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): and extracting it from there
+[20:45:59]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): nothing could go wrong right
+[20:46:10]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): this is normal
+[20:46:17]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): tbh
+[20:46:25]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): I dont have any other suggestions for how to do a file copy better
+[20:46:26]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): sorry carrotter nerd talk
+[20:46:30]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): ok good
+[20:46:33]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): maybe rclone but ive never used that so
+[20:46:39]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): me neither
+[20:46:46]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tp Carrotter
+[20:47:00]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): whats the spectator key combo again
+[20:47:06]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): 1 or middle mouse
+[20:47:14]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): no i mean the gamemode switch
+[20:47:19]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tp Enstrayed
+[20:47:21]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): oh idk I just use the command
+[20:47:23]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): brh
+[20:47:30]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): of course
+[20:47:46]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): i need to get sign colors to work
+[20:47:46]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): that will 404 if you go to it now but in an hour it will not
+[20:47:52]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): mhm
+[20:48:00]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): speaking of 404
+[20:48:04]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): i still have yet to put up a website for this
+[20:48:16]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): going to it now should just resolve to like
+[20:48:19]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): "hello world" or something rn
+[20:48:29]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): nvm
+[20:48:32]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): its a cat
+[20:48:33]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): could setup a basic like jekyll site just to have something there
+[20:48:41]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): https://cmcthrowback.live/
+[20:48:42]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): yeah
+[20:48:47]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): idk anything about jekyll
+[20:48:52]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): jekyll is pretty simple
+[20:49:08]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): ive yet to set it up with caddy but im planning on doing that soon
+[20:49:09]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): carrotter warp to bigbencity
+[20:49:15]: COMMAND > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): /warp BigBenCity
+[20:49:20]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): this is not bigbencity is it
+[20:49:35]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): uh
+[20:49:42]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): aside from this like quartz patch of land here
+[20:49:42]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): I don't think so
+[20:49:45]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): yeah i thought so
+[20:50:04]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): i think these are new chunks lol
+[20:50:14]: COMMAND > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): /warp Coconut_Mall
+[20:50:18]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): hole
+[20:50:23]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): im testing something holdon
+[20:50:50]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): alexandria and cooltowne are broken too
+[20:50:52]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): they're just in the ground
+[20:51:14]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /warp bigbencity
+[20:51:23]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tps
+[20:51:23]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): ok so it does have y cord info
+[20:51:48]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): coffee do you have world edit and mind if I lag the server for 15 seconds
+[20:51:53]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): uh why
+[20:52:00]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): I would like to fix the hole
+[20:52:02]: COMMAND > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): /warp Dragon_City
+[20:52:04]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): oh
+[20:52:07]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): uh
+[20:52:12]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): hm
+[20:52:18]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): problem solved
+[20:52:22]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): lol
+[20:52:34]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /sit
+[20:52:36]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): uh oh
+[20:52:40]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): uh oh
+[20:52:41]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /sit
+[20:52:43]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /sit
+[20:52:46]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): HAHAHA
+[20:52:48]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): not ideal
+[20:52:59]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): you have to do /sit
+[20:53:05]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /sit
+[20:53:06]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /spin
+[20:53:10]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): bruh
+[20:53:20]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): look up
+[20:53:44]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): oh ok
+[20:54:22]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tp Carrotter
+[20:54:41]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /crawl
+[20:54:48]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /crawl
+[20:54:55]: COMMAND > lobby > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /global
+[20:55:01]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /crawl
+[20:55:04]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /crawl
+[20:55:25]: COMMAND > lobby > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /kill
+[20:55:43]: COMMAND > lobby > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /spawn
+[20:55:54]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tp Enstrayed
+[20:55:55]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /clear
+[20:55:59]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): weird
+[20:56:07]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): inb4 my gateway reboots *again*
+[20:56:19]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): bro got pc from 2004 :sob:  :Sob:
+[20:56:51]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gamemode survival
+[20:57:06]: COMMAND > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): /warp THE
+[20:57:09]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): lol
+[20:57:13]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tps
+[20:57:20]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): why is this spider so laggy
+[20:57:21]: COMMAND > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): /warp BobTown
+[20:57:34]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /bluemap stop
+[20:57:40]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): it was bluemap
+[20:57:47]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gamemode creative
+[20:57:58]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): carrotter
+[20:58:01]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): yes?
+[20:58:02]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): i think you can claim now
+[20:58:05]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): if you want to try
+[20:58:07]: COMMAND > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): /claim
+[20:58:08]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): i still need to fix currencies
+[20:58:09]: COMMAND > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): /claim
+[20:58:11]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): yes
+[20:58:13]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): but thats about it i think
+[20:58:16]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): claiming works
+[20:58:19]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): nice
+[20:58:22]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tp Enstrayed
+[20:58:31]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): the hell is a conduit
+[20:58:41]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): lol
+[20:58:43]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): goes underwater and gives buffs
+[20:58:45]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): oh
+[20:59:12]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): i wonder if the maps were husky proprietary stuff
+[20:59:16]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): (the dev of smponline
+[20:59:20]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): the image maps
+[20:59:31]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): I think he might've made the plugin
+[20:59:32]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): not sure
+[20:59:42]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): i only think about that since he had huskyscreens too
+[20:59:44]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /clear
+[20:59:49]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): yeah
+[20:59:51]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): and i think those worked pretty much the same way
+[21:00:11]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /epiccurrency
+[21:00:16]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): ctae
+[21:00:20]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): wha
+[21:00:20]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): epiccurrencies
+[21:00:22]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): is the fucking worst
+[21:00:34]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): incredible
+[21:00:36]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): do /epiccurrency when i give you admin
+[21:00:41]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): and try to change any of the values
+[21:00:53]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): ok
+[21:00:55]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /epiccurrency
+[21:00:57]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /epiccurrency
+[21:01:02]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): like click to rename currency
+[21:01:04]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): and then try
+[21:01:05]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): you cant
+[21:01:16]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): theres just a title that says "rename" in front of your face
+[21:01:34]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): Starbucks
+[21:01:38]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): lmao
+[21:01:44]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): oh my god it sucks
+[21:01:47]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /epiccurrency
+[21:01:50]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /epiccurrency
+[21:01:55]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /epiccurrency rename
+[21:02:04]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /epiccurrency
+[21:02:10]: COMMAND > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): /warp CoolerTowne
+[21:02:21]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): yeahy i dont understand it
+[21:02:22]: COMMAND > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): /warp Crayola
+[21:02:24]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /epiccurrency
+[21:02:28]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /epiccurrency
+[21:02:33]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): Starbucks
+[21:02:37]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): yeah it just doesnt work
+[21:02:43]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): and if you move your mouse at all
+[21:02:44]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /epiccurrency rename "New Currency"
+[21:02:47]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /epiccurrency
+[21:02:48]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /epiccurrency
+[21:02:51]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): t
+[21:02:57]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /epiccurrency
+[21:03:00]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /deposit
+[21:03:10]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /epiccurrency
+[21:03:13]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): you can still deposit but if you deposit a diamond you'll only get $1
+[21:03:22]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): i think its upposed to be $100
+[21:03:36]: COMMAND > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): /warp CoolTowne
+[21:03:51]: COMMAND > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): /warp Gundam
+[21:04:04]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /epiccurrency
+[21:04:21]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): t
+[21:04:26]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): t
+[21:04:29]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): i cant tell if like
+[21:04:36]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): theres some plugin thats fucking it up or what
+[21:04:38]: COMMAND > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): /warp POGMountain
+[21:04:39]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tp Enstrayed
+[21:04:51]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /ping
+[21:04:52]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tps
+[21:04:57]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): it has to be a conflict with one of the chat plugins
+[21:04:59]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): in which case ew
+[21:05:00]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /plugins
+[21:05:15]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): the only chat plugin is bungeechat but i dont think it works the way i think it does
+[21:05:21]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /give Enstrayed minecraft:cooked_beef 16
+[21:05:23]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp networksync
+[21:05:32]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /local penis
+[21:05:32]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): penis
+[21:05:33]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /global penis
+[21:05:33]: GLOBAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): penis
+[21:05:36]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): cock and balls
+[21:06:05]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): i might just have to work with it through the config file
+[21:07:39]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): hey carrotter
+[21:07:44]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): yes
+[21:07:45]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): a diamond was like $100 when you deposit right
+[21:07:55]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): a diamond was a diamond
+[21:08:06]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): uhhhhhhhhhhhhhhhhhhhh
+[21:08:07]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): I didn't make it to anything other than diamonds
+[21:08:19]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): ok so it was just
+[21:08:25]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): 1 diamond = 1 """dollar"""
+[21:11:00]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): i guess that works
+[21:11:09]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tp Enstrayed
+[21:11:15]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): oh hi
+[21:11:24]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): didnt know you were in the end
+[21:11:26]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /give Enstrayed minecraft:netherrite_sword
+[21:11:38]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /give Enstrayed minecraft:diamond_sword
+[21:12:25]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /world world
+[21:12:30]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): back
+[21:12:33]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): o
+[21:12:37]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): didnt know you were afk
+[21:13:13]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): ctae
+[21:13:23]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): did you see the grungoonga hill
+[21:13:27]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): no
+[21:13:32]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): im tping you
+[21:13:34]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tp Enstrayed coff3e
+[21:13:44]: COMMAND > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): /tpa coff3e
+[21:13:47]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tpaccept
+[21:13:48]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): istg this looks like its trying to chunkban somebody
+[21:13:57]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): it doesnt go that far
+[21:14:01]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): still funny though
+[21:14:01]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): lol do f3+g
+[21:14:05]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): grunggoonga
+[21:14:05]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): its all in one chunk
+[21:14:14]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): sortof
+[21:14:18]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): grungoonga
+[21:14:20]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): theres signs back here too
+[21:14:25]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): brb
+[21:14:26]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /afk
+[21:14:30]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /back
+[21:15:27]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /afk
+[21:15:31]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): where was fommworld at
+[21:15:36]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): or was that not s2
+[21:15:53]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tp Enstrayed
+[21:15:58]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): oh my god thats so loud
+[21:16:06]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tp Carrotter
+[21:16:14]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): carrotter do you want a return
+[21:16:19]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): all of the chests are full of ender pearls
+[21:16:30]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /return Carrotter
+[21:16:32]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tp Carrotter
+[21:16:38]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): im gonna return him anyway
+[21:17:12]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /plugins
+[21:17:57]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): oh
+[21:18:02]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): i found the obama pyramid
+[21:18:33]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /give Enstrayed lapis_lazuli 1
+[21:18:34]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): wait what
+[21:18:39]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): its a redstone computer
+[21:19:03]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): the obama pyramid is just a whole fucking redstone computer
+[21:19:06]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): what
+[21:19:17]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): mfs on this server crazy
+[21:19:20]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): tp
+[21:19:25]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /tp coff3e
+[21:19:27]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): go outside
+[21:19:29]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): and fly
+[21:19:37]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): lmfao
+[21:19:55]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): nrij
+[21:19:57]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): bru
+[21:20:10]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): its pretty slow
+[21:20:18]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): well its not a CHUNGUS2
+[21:20:26]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): okay, back again
+[21:20:28]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): phone calls
+[21:20:31]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): understandable
+[21:20:33]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): we found the obama pyramid
+[21:20:46]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): yes
+[21:20:49]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): pog mountain
+[21:20:52]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): i didnt think this thing was a mf computer
+[21:21:00]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): ctae look up front
+[21:21:05]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): at these signs
+[21:21:17]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): lmalo
+[21:21:23]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): absolutely insane
+[21:21:26]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): these people had nothing better to do
+[21:21:32]: COMMAND > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): /tpa coff3e
+[21:21:39]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tpaccept
+[21:21:54]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): im gonna make a new role for trusted people
+[21:22:09]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): le based role
+[21:22:16]: COMMAND > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): /warp Carrotthia
+[21:23:55]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp networksync
+[21:23:57]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): there we go
+[21:24:23]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp networksync
+[21:24:30]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): congratulations carrotter
+[21:24:36]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): the blue
+[21:24:40]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): the blue
+[21:24:46]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): le blu
+[21:24:47]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): wait
+[21:24:49]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): this is fomm world
+[21:25:08]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): how did i not notice this in the distance
+[21:25:16]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): it was dark
+[21:25:22]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): true
+[21:25:30]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): damn low server render distance
+[21:25:34]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): lol
+[21:25:42]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): pregenerated + 32 chunk distance is mint
+[21:26:00]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): would ampere cores be powerful enough for that
+[21:26:13]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): its what I run on my A10 or whatever shitter is in my server
+[21:26:17]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): oh lol
+[21:26:29]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): though that is just stock paper
+[21:26:30]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): whats going on with these maps
+[21:26:42]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): bruh
+[21:27:00]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gamemode spectator
+[21:27:12]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): wait ctae im going to send you a video with a timestamp
+[21:27:33]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): which serv
+[21:27:37]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): mine
+[21:27:45]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): actually cmcthrowbnack
+[21:27:51]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): ok
+[21:29:04]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): shit which video was fommworld
+[21:30:29]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): nvm ill find t later
+[21:30:33]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gamemode creative
+[21:30:55]: LOCAL > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): alright im gonna go
+[21:31:01]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): aight
+[21:31:01]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): cya
+[21:31:04]: LEAVE > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): §eEnstrayed has left the network!
+[21:31:07]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): and i found it
+[21:31:09]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): as soon as he left
+[21:31:10]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): ffs
+[21:31:13]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): lol
+[21:32:01]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): so how are you doing
+[21:32:02]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tp carq
+[21:32:03]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tp car
+[21:32:05]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): good
+[21:32:19]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): yea
+[21:35:11]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /spawn
+[21:35:24]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gd claimgroup admin
+[21:35:28]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gd:callback 78197dbb-ebcb-44a6-8caa-234163265bbf
+[21:35:30]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gd:callback ea008c01-b1b9-47de-bdef-ca2eac7c36cb
+[21:35:35]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gd:callback 648f86fd-2e99-4737-867e-facf9296b5a2
+[21:35:38]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gd:callback 3353fa08-a70a-45f1-845f-d8d940d7abae
+[21:35:38]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gd:callback 222adfcb-7815-4258-832c-be1128e4dc17
+[21:35:40]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gd:callback 68037e63-d82c-42b0-9464-7a918184a94a
+[21:35:45]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gd:callback 6ba62a3a-be18-42dc-93fb-7c4bc6bd298a
+[21:35:50]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gd:callback 6ba62a3a-be18-42dc-93fb-7c4bc6bd298a
+[21:39:25]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /pm reload PlasmoVoice
+[21:40:30]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): OH
+[21:40:33]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): im so fucking stupid
+[21:40:46]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): i didnt install plasmovoice correctly
+[21:43:07]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tp Carrotter
+[21:43:19]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): im probably going to try restarting the proxy server
+[21:43:26]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): actually all servers
+[21:43:26]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): alright
+[21:43:35]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): do you have plasmovoice on
+[21:43:37]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): I'm probably going to get something to eat
+[21:43:38]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): no
+[21:43:40]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): aight
+[21:43:45]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): that sounds like a really good iea
+[21:43:47]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): im hunry now
+[21:43:48]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): aight
+[21:43:51]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): cya later
+[21:43:51]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): oh uh
+[21:43:54]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): later
+[21:43:59]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): or no
+[21:44:01]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): do you know of anyone else that might be interested in something like this
+[21:44:08]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): or ehhhhh
+[21:44:20]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): are you basically wanting this to be a continuation of season 2?
+[21:44:29]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): thats sort of the goal with the servers
+[21:44:38]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): maybe, maybe not
+[21:44:41]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): mhm
+[21:44:47]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): alright, well i'll find out soon enough
+[21:44:49]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): I really have no idea what people would think
+[21:44:51]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): yur
+[21:44:58]: LOCAL > s2 > Carrotter(d4505dc1-bfc2-4ce1-bd92-65949edad0bb): okay, buh-bye now
+[21:44:59]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): aight
+[21:45:00]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): cya
+[21:45:02]: LEAVE > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has left the network!
+[21:46:29]: JOIN > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has joined the network!
+[21:46:38]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /server s2
+[21:46:59]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /server s2
+[21:47:01]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /spawn
+[21:47:12]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /spawn
+[21:47:19]: SWITCH > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has moved to the §cs2 §eserver!
+[21:48:50]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /plugins
+[21:48:52]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /plasmovoice:vlist
+[21:48:56]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /plasmovoice:vrc
+[21:49:02]: LEAVE > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has left the network!
+[22:04:50]: JOIN > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has joined the network!
+[22:05:00]: SWITCH > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has moved to the §cs2 §eserver!
+[22:05:33]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /thru
+[22:05:57]: LEAVE > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has left the network!
+[23:21:51]: JOIN > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has joined the network!
+[23:23:22]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warp Carrotthia
+[23:24:57]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gd
+[23:25:40]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gd toggle gui
+[23:25:43]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): t
+[23:25:45]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gd toggle gui
+[23:25:46]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gd toggle gui
+[23:25:50]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gd toggle gui
+[23:25:51]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gd toggle gui
+[23:38:31]: LEAVE > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has left the network!

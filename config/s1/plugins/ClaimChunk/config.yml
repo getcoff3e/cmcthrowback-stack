@@ -1,0 +1,67 @@
+# Config generated for ClaimChunk version 0.0.23-RC7
+# For more information about all these options, please visit the wiki page:
+# https://github.com/cjburkey01/ClaimChunk/wiki/Configuration-File
+
+basic:
+  disablePermissions: false
+  checkForUpdates: true
+titles:
+  useTitlesInsteadOfChat: true
+  useActionBar: true
+  titleFadeInTime: 20
+  titleStayTime: 140
+  titleFadeOutTime: 20
+colors:
+  infoColor: GOLD
+  errorColor: RED
+chunks:
+  maxChunksClaimed: 50
+  particlesWhenClaiming: true
+  hideAlertsForVanishedPlayers: true
+  automaticUnclaimSeconds: -1
+  unclaimCheckIntervalTicks: 1200
+  displayNameOfOwner: true
+  defaultSendAlertsToOwner: true
+  maxPerListPage: 5
+  disabledWorlds: []
+  nearChunkSearch: 5
+  maxScanRange: 20
+chunkOutline:
+  name: SMOKE_LARGE
+  durationSeconds: 5
+  spawnsPerSecond: 2
+  particlesPerSpawn: 2
+  heightRadius: 3
+worldguard:
+  allowClaimsInRegionsByDefault: true
+  allowClaimingInNonGuardedWorlds: true
+  allowAdminOverride: true
+economy:
+  useEconomy: true
+  claimPrice: 1.0
+  unclaimReward: 1.0
+  firstFreeChunks: 6
+data:
+  saveDataIntervalInMinutes: 10
+  keepJsonBackups: true
+  minBackupIntervalInMinutes: 120
+  deleteOldBackupsAfterMinutes: 10080
+database:
+  useDatabase: false
+  groupRequests: true
+  convertOldData: true
+  hostname: 127.0.0.1
+  port: 3306
+  database: MyServer
+  username: root
+  password: root
+  printDebug: false
+  useSsl: false
+  allowPublicKeyRetrieval: false
+floodclaim:
+  enabled: true
+  maximumIterations: 6
+  maximumArea: 41
+log:
+  debugSpam: false
+  anonymousMetrics: true

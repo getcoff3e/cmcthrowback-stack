@@ -1,7 +1,11 @@
 # EssentialsX
-https://cdn.modrinth.com/data/hXiIvTyT/versions/z951OvHM/EssentialsX-2.19.7.jar
+https://github.com/EssentialsX/Essentials/releases/download/2.19.7/EssentialsX-2.19.7.jar
+# EssentialsX Spawn
+https://github.com/EssentialsX/Essentials/releases/download/2.19.7/EssentialsXSpawn-2.19.7.jar
+# EssentialsX Protect
+https://github.com/EssentialsX/Essentials/releases/download/2.19.7/EssentialsXProtect-2.19.7.jar
 # ViaVersion
-https://github.com/ViaVersion/ViaVersion/releases/download/4.6.1/ViaVersion-4.5.1.jar
+https://github.com/ViaVersion/ViaVersion/releases/download/4.6.2/ViaVersion-4.6.2.jar
 # BlueMap
 https://cdn.modrinth.com/data/swbUV1cr/versions/7aIncldX/BlueMap-3.12-spigot.jar
 # LuckPerms
@@ -15,14 +19,32 @@ https://mediafilez.forgecdn.net/files/3677/516/worldguard-bukkit-7.0.7-dist.jar
 # Vault
 https://github.com/MilkBowl/Vault/releases/download/1.7.3/Vault.jar
 # QuickShop
-https://cdn.modrinth.com/data/ijC5dDkD/versions/jJkeGuqY/QuickShop-Hikari-4.1.0.4.jar
+https://ci.codemc.io/job/PotatoCraft-Studio/job/QuickShop-Reremake/148/artifact/target/QuickShop-5.1.2.0.jar
 # TAB
 https://cdn.modrinth.com/data/cUhi3iB2/versions/XRXBIyQG/tabtps-spigot-1.3.16.jar
 # Plasmo Voice
-https://cdn.modrinth.com/data/1bZhdhsH/versions/1.0.11/plasmovoice-server-1.0.11.jar
-# Xaero Map Spigot
-https://cdn.modrinth.com/data/Zjb20YAx/versions/hkIDnRNe/xaero-map-spigot-1.0.0.jar
+https://github.com/plasmoapp/plasmo-voice/releases/download/2.0.2/PlasmoVoice-Paper-2.0.2.jar
 # SimplePortals
-https://github.com/XZot1K/SimplePortals/releases/download/1.7.2/SimplePortals-1.7.2.jar
+#https://github.com/XZot1K/SimplePortals/releases/download/1.7.2/SimplePortals-1.7.2.jar
 # Multiverse Core 
 https://github.com/Multiverse/Multiverse-Core/releases/download/4.3.8/multiverse-core-4.3.8.jar
+# BungeeGuard
+https://github.com/lucko/BungeeGuard/releases/download/v1.3.3/BungeeGuard.jar
+# GSit
+https://github.com/Gecolay/GSit/releases/download/1.4.2/GSit-1.4.2.jar
+# PluginManager
+https://github.com/Lenni0451/SpigotPluginManager/releases/download/2.7.4/PluginManager.jar
+# ProtocolLib
+https://github.com/dmulloy2/ProtocolLib/releases/download/4.8.0/ProtocolLib.jar
+# TAB
+https://cdn.modrinth.com/data/gG7VFbG0/versions/bp3qtDd5/TAB%20v3.3.2.jar
+# ChatItem
+https://github.com/dadus33-plugins/ChatItem/releases/download/2.4.6/ChatItem-2.4.6.jar
+# DecentHolograms
+#https://github.com/DecentSoftware-eu/DecentHolograms/releases/download/2.8.1/DecentHolograms-2.8.1.jar
+# LibsDisguises
+https://github.com/libraryaddict/LibsDisguises/releases/download/v10.0.32/LibsDisguises-10.0.32-Github.jar
+# InventoryRollbackPlus
+https://github.com/TechnicallyCoded/Inventory-Rollback-Plus/releases/download/v1.6.7/InventoryRollbackPlus-1.6.7.jar
+# ImageOnMap
+https://github.com/zDevelopers/ImageOnMap/releases/download/v4.2.2/ImageOnMap-4.2.2.jar

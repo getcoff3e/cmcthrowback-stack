@@ -1,0 +1,41 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 76.72.41.235
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: true
+timestamps:
+  lastteleport: 1680637435809
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1680661821980
+  login: 1680661787854
+money: '-53.0'
+last-account-name: coff3e
+logoutlocation:
+  world: 11db8906-7523-49f4-aa31-87c1ae666c6b
+  world-name: world
+  x: -495.5343029655123
+  y: 89.0
+  z: -466.9295368496011
+  yaw: -108.09587097167969
+  pitch: 27.899747848510742
+lastlocation:
+  world: 11db8906-7523-49f4-aa31-87c1ae666c6b
+  world-name: world
+  x: 9.74011571832308
+  y: 143.89363928134023
+  z: -151.5581058571923
+  yaw: 43.373077392578125
+  pitch: 16.200111389160156
+powertools:
+  wooden_axe:
+  - beecannon

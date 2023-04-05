@@ -1,0 +1,536 @@
+[00:05:20]: JOIN > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has joined the network!
+[00:05:26]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /spawn
+[00:05:37]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /spawn coff3e
+[00:05:42]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /plugins
+[00:05:52]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /spawn
+[00:06:30]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /sp fill
+[00:06:48]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /simpleportals:simpleportals fill s2 dirt
+[00:06:56]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /simpleportals:simpleportals fill s2 glass_pane
+[00:06:59]: SWITCH > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has moved to the §cs2 §eserver!
+[00:07:06]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /plugins
+[00:07:16]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /imagemaps
+[00:07:17]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /spawn
+[00:07:33]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /server lobby
+[00:07:33]: SWITCH > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has moved to the §clobby §eserver!
+[00:07:37]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /spawn
+[00:07:49]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /simpleportals fill s2 nether_portals
+[00:07:53]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /simpleportals fill s2 barrier
+[00:08:08]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /simpleportals fill s1 barrier
+[00:08:29]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /simpleportals fill s2 grass
+[00:08:32]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /simpleportals fill s2 water
+[00:09:17]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gamerule spawnRadius 0
+[00:09:25]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /setworldspawn
+[00:15:56]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /worldborder set
+[00:15:58]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /worldborder add
+[00:16:09]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /worldborder center
+[00:16:13]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /worldborder get
+[00:16:17]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /worldborder set 100
+[00:16:28]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /worldborder center
+[00:16:30]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /worldborder center 0
+[00:16:36]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /worldborder center ~ ~
+[00:16:43]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /worldborder set 10
+[00:16:45]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /worldborder set 25
+[00:16:48]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /worldborder set 15
+[00:16:51]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /worldborder set 16
+[00:16:52]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /worldborder set 17
+[00:16:53]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /worldborder set 18
+[00:16:54]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /worldborder set 19
+[00:16:57]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /worldborder set 20
+[00:16:59]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /worldborder set 21
+[00:17:06]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gamemode spectator
+[00:17:27]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gamemode creative
+[00:17:30]: SWITCH > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has moved to the §cs2 §eserver!
+[00:17:35]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /server lobby
+[00:17:35]: SWITCH > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has moved to the §clobby §eserver!
+[00:22:15]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /kill coff3e
+[00:22:19]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /setworldspawn
+[00:22:20]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /kill coff3e
+[00:22:45]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /worldborder set 22
+[00:22:48]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gamemode spectator
+[00:23:03]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gamemode creative
+[00:23:16]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /clear
+[00:23:48]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /simpleportals fill s1 lava
+[00:23:51]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /simpleportals fill s1 water
+[00:23:55]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /simpleportals fill s1 fence
+[00:23:58]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /simpleportals fill s1 wood_fence
+[00:24:01]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /simpleportals fill s1 iron_bars
+[00:24:23]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /clear
+[00:27:16]: LEAVE > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has left the network!
+[01:30:29]: JOIN > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has joined the network!
+[01:30:39]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /imagemap download
+[01:32:46]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /imagemap download cry.jpg https://media.discordapp.net/attachments/1081653335725199372/1089893762211258408/IMG_6746.jpg?width=422&height=419
+[01:32:53]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /imagemap place cry.jpg
+[01:33:10]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /imagemap download cry.jpg https://media.discordapp.net/attachments/1081653335725199372/1089893762211258408/IMG_6746.jpg?width=422&height=419
+[01:33:19]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /imagemap download cry https://media.discordapp.net/attachments/1081653335725199372/1089893762211258408/IMG_6746.jpg?width=422&height=419
+[01:33:34]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /imagemap place cry
+[01:33:44]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /imagemap place cry
+[01:34:29]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /imagemap place cry
+[01:34:31]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /imagemap place cry
+[01:34:33]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /imagemap place cry
+[01:34:35]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /imagemap place cry
+[01:34:56]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /imagemap place cry
+[01:35:21]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /clear
+[01:35:27]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /imagemap download cry https://media.discordapp.net/attachments/1081653335725199372/1089893762211258408/IMG_6746.jpg
+[01:35:31]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /imagemap place cry
+[01:35:35]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /imagemap place cry
+[01:35:38]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /imagemap place cry
+[01:35:40]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /imagemap place cry
+[01:37:33]: SWITCH > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has moved to the §cs2 §eserver!
+[01:38:42]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /bluemap
+[01:38:44]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /bluemap start
+[01:38:45]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /bluemap
+[01:40:08]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warp carsonsmpbase
+[01:40:12]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warp Carrotthia
+[01:54:19]: LEAVE > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has left the network!
+[02:36:10]: JOIN > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has joined the network!
+[02:36:22]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /spawn
+[02:36:45]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): //replacenear white_stained_glass barrier
+[02:36:49]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): //replacenear 100 white_stained_glass barrier
+[02:37:02]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): //undo
+[02:39:03]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /worldborder set 25
+[02:39:06]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gamemode spectator
+[02:39:21]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gamemode creative
+[02:39:57]: SWITCH > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has moved to the §cs2 §eserver!
+[02:40:31]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /plasmovoice settings
+[02:40:34]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /plasmovoice:vlist
+[02:40:37]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /plasmovoice
+[02:40:39]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /vrc
+[02:40:44]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /vreload
+[02:41:31]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warp carsonsmpbase
+[02:41:34]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warp Carro
+[02:41:35]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warp Carrotthia
+[02:41:46]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /epiccurreq
+[02:41:48]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /epiccurrency
+[02:43:32]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): tttt
+[02:43:37]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): name:t
+[02:43:55]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): Dollars
+[02:43:57]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /dollars
+[02:44:00]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): none
+[02:44:07]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /epiccurrency Diamonds
+[02:44:11]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /epiccurrency Diamonds
+[02:44:20]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /epiccurrency rename Diamonds
+[02:44:39]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /epiccurrency suffix Diamonds
+[02:44:49]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /epiccurrency suffix:Diamonds
+[02:44:52]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /epiccurrency Diamonds
+[02:45:17]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /pm
+[02:45:20]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /pm gui
+[02:45:24]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /pm gui
+[02:45:41]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /epiccurrency
+[02:45:46]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /epiccurrency edit
+[02:45:50]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /epiccurrency *
+[02:45:52]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /epiccurrency
+[02:49:13]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): [item]
+[02:49:15]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /plugin
+[02:49:46]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /chatitem:chatitem
+[02:49:48]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /chatitem:chatitemlinks
+[02:49:50]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /chatitem:chatitem
+[02:49:52]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /chatitem:chatitemreoad
+[02:49:54]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /chatitem:chatitemreload
+[02:49:57]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): [item]
+[02:51:28]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): what the fuck
+[02:51:32]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /bungeechat
+[02:51:36]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /bungeechat stop
+[02:56:04]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /rename
+[02:56:05]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): rename
+[02:56:06]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): rename ttt
+[02:56:10]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): rename:ttt
+[02:57:30]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /local test
+[02:57:30]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): test
+[02:57:40]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /epiccurrency
+[02:57:52]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /local te
+[02:57:52]: LOCAL > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): te
+[03:00:54]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /epiccurrency reoad
+[03:00:56]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /epiccurrency reload
+[03:01:15]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /pm reload EpicCurrency
+[03:01:27]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /balance
+[03:01:30]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /epiccurrency
+[03:01:58]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /pm reload EpicCurrency
+[03:02:13]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /plugins
+[03:02:16]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /epiccurrency
+[03:02:49]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /pm reload EpicCurrency
+[03:03:03]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /balance
+[03:03:06]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /epiccurrency
+[03:03:23]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /balance
+[03:03:28]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /pay coff3e 100
+[03:03:46]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /withdraw coff3e 50
+[03:03:49]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /withdraw 50
+[03:04:23]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /restart
+[03:04:23]: LEAVE > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has left the network!
+[03:04:29]: JOIN > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has joined the network!
+[03:05:01]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /spawn
+[03:15:49]: SWITCH > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has moved to the §cs2 §eserver!
+[03:15:56]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /balance
+[03:15:58]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /depisot 500
+[03:16:01]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /deposit 500
+[03:16:10]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /withdraw 5 coff3e
+[03:16:14]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /withdraw 5 coff3e
+[03:16:25]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /deposit
+[03:16:27]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /deposit
+[03:16:27]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /deposit
+[03:16:28]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /deposit
+[03:16:28]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /deposit
+[03:16:35]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /epiccurrency
+[03:17:49]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /deposit
+[03:17:54]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /deposit 1
+[03:17:55]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /deposit 2
+[03:17:56]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /deposit
+[03:18:02]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /epiccurrency
+[03:18:35]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /epiccurrency
+[03:18:47]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /epiccurrency Diamonds
+[03:18:54]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /epiccurrency rename Diamonds
+[03:19:01]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /balance
+[03:19:04]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /deposit
+[03:19:07]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /balance
+[03:19:10]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /epiccurrency
+[03:19:19]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /balance
+[03:19:22]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /deposit
+[03:21:48]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /clear
+[04:01:26]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /playtime
+[04:02:55]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /thru
+[04:02:58]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /thru
+[04:03:00]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /thru
+[04:03:44]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /spawn
+[04:06:56]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /griefdefender admin claim
+[04:07:35]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /griefdefender claimgroup admin
+[04:07:48]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /griefdefender claimgroup admin create
+[04:07:52]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /griefdefender claimgroup admin claimgroup admin create
+[04:07:57]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gd
+[04:08:34]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gd delete
+[04:08:38]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gd delete alladmin
+[04:08:45]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gd delete BASIC
+[04:08:49]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gd deleteclaim BASIC
+[04:12:58]: LEAVE > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has left the network!
+[06:19:15]: JOIN > lobby > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): §eEnstrayed has joined the network!
+[06:19:20]: COMMAND > lobby > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /spawn
+[06:19:30]: SWITCH > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): §eEnstrayed has moved to the §cs2 §eserver!
+[06:35:28]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /give Enstrayed netherite_sword 1
+[06:35:37]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /give Enstrayed lapis_lazuli 10
+[06:36:17]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /give Enstrayed lapis_lazuli 10
+[06:36:58]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /give Enstrayed book 1
+[06:37:21]: COMMAND > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): /give Enstrayed lapis_lazuli 10
+[06:43:50]: LEAVE > s2 > Enstrayed(3652262a-1be4-421f-8d70-78d47387ec86): §eEnstrayed has left the network!
+[13:31:21]: JOIN > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has joined the network!
+[13:31:39]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warps
+[13:31:40]: LOCAL > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): t
+[13:31:46]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warps 2
+[13:31:52]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warps 3
+[13:31:53]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warps 4
+[13:32:44]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warp Carrotthia
+[13:32:50]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /return
+[13:32:58]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /stop
+[13:33:02]: LEAVE > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has left the network!
+[13:33:56]: JOIN > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has joined the network!
+[13:34:04]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /spawn
+[13:34:12]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /simpleportals fill s1 wtaer
+[13:34:15]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /simpleportals fill s1 water
+[13:35:54]: SWITCH > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has moved to the §cs1 §eserver!
+[13:36:00]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warps
+[13:36:05]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warp Carrotthia
+[13:36:14]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /spawn
+[13:36:26]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gamemode creative
+[13:36:31]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gamemode survival
+[13:36:32]: LEAVE > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has left the network!
+[13:43:53]: JOIN > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has joined the network!
+[13:44:07]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gamemode creative
+[13:44:25]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): //wand
+[13:44:37]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gd claim
+[13:44:40]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gd claimgroup
+[13:44:43]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gd claimgroup on
+[13:44:47]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gd claim
+[13:44:51]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /plugins
+[13:44:55]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /worldguard coff3e
+[13:45:04]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /worldguard claim
+[13:45:07]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /worldguard
+[13:45:12]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /worldguard:wg
+[13:45:16]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /worldguard:wg coff3e coff3e
+[13:45:18]: LOCAL > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): wamd
+[13:45:20]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): //wand
+[13:46:08]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /worldguard:wg add
+[13:47:13]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /region
+[13:47:16]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /region select
+[13:47:21]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /region create
+[13:47:27]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /region create spawn coff3e
+[13:48:14]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gamerule mobGriefing false
+[13:49:20]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /home
+[13:49:22]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gamemode survival
+[13:52:58]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /balance
+[13:53:01]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /epiccurrency
+[13:53:13]: LOCAL > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): ttt
+[13:53:23]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /epiccurrency bbb
+[13:55:25]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /homes
+[13:55:29]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /home list
+[13:55:35]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /claim
+[13:55:44]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /claim
+[13:55:54]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /claim chunk
+[13:55:56]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gd
+[13:56:16]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gd
+[13:56:18]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /claim
+[13:59:13]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /claim admin
+[13:59:21]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /feed coff3e
+[13:59:54]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /claim
+[14:00:55]: LEAVE > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has left the network!
+[14:02:08]: JOIN > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has joined the network!
+[14:03:42]: SWITCH > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has moved to the §cs1 §eserver!
+[14:03:59]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /crashclaim
+[14:04:02]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /claim
+[14:04:18]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /claim
+[15:20:02]: LEAVE > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has left the network!
+[15:22:14]: JOIN > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has joined the network!
+[15:22:25]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /feed coff3e
+[15:22:36]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /afk
+[15:22:40]: LEAVE > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has left the network!
+[18:54:42]: JOIN > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has joined the network!
+[18:54:59]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /pluginmanager disable TAB
+[18:55:02]: LEAVE > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has left the network!
+[18:55:07]: JOIN > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has joined the network!
+[18:58:48]: LEAVE > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has left the network!
+[18:58:50]: JOIN > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has joined the network!
+[18:58:54]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /reoad
+[18:58:58]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /pm reload essentials
+[18:59:06]: LEAVE > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has left the network!
+[18:59:08]: JOIN > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has joined the network!
+[18:59:14]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /kill coff3e
+[18:59:20]: SWITCH > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has moved to the §cs1 §eserver!
+[18:59:26]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /server s1
+[18:59:28]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /server lobby
+[18:59:28]: SWITCH > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has moved to the §clobby §eserver!
+[18:59:32]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /restart
+[18:59:32]: LEAVE > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has left the network!
+[19:00:24]: JOIN > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has joined the network!
+[19:00:41]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /essentials spawn
+[19:00:45]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /essentials 2
+[19:06:14]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /give playerhead
+[19:06:19]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /give player-head
+[19:06:21]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /give player_head
+[19:06:25]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /give diamonds 64
+[19:06:27]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /give diamonds
+[19:06:34]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /give coff3e player_head:coff3e
+[19:06:37]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /give coff3e player_head
+[19:07:13]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /give coff3e player_head:[coff3e]
+[19:07:21]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /i 397:3 1 player:[coff3e]
+[19:07:56]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /give @p minecraft:player_head{SkullOwner:coff3e}
+[19:08:13]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /give @p minecraft:player_head{SkullOwner:coff3e}
+[19:08:48]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /give @p minecraft:player_head{SkullOwner:coff3e}
+[19:08:54]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /minecraft:give @p minecraft:player_head{SkullOwner:coff3e}
+[19:09:06]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /minecraft:give @p minecraft:player_head{SkullOwner:CallMeCarson}
+[19:09:11]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /anivl
+[19:09:13]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /anvil
+[19:09:23]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /anvil
+[19:09:31]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /give coff3e lapis 1
+[19:09:36]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /give coff3e 1 lapis_lazuli
+[19:09:41]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /anvil
+[19:10:37]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /clear
+[19:12:03]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /clear
+[19:13:50]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /clear
+[19:14:08]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /pluginmanager
+[19:14:11]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /plugins
+[19:15:02]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /save-all
+[19:15:05]: LEAVE > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has left the network!
+[19:17:54]: JOIN > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has joined the network!
+[19:18:02]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /plugins
+[19:18:13]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /hologram create
+[19:18:23]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /hologram create s2sign &feat shit
+[19:18:32]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /decentholograms remove s2sign`
+[19:18:34]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /decentholograms remove s2sign
+[19:18:47]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /hologram create garry hehe
+[19:18:58]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /hologram delete garry
+[19:19:04]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /hologram create garry garry
+[19:19:51]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /hologram create s2sign &l&4test
+[19:19:56]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /hologram delete s2sign
+[19:20:00]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /hologram create s2sign &4&ltest
+[19:20:01]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /hologram delete s2sign
+[19:20:09]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /hologram create s2sign &4&lSeason 2 Portal
+[19:20:27]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /hologram create s1sign &a&lSeason 1 Portal
+[19:21:03]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /hologram create lone_pufferfish yeah
+[19:21:11]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /hologram delete lone_pufferfish
+[19:21:14]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /hologram create lone_pufferfish yeah
+[19:22:05]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /hologram create behind_garry hehehehehe
+[19:22:15]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /hologram delete behind_garry
+[19:25:09]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /restart
+[19:25:09]: LEAVE > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has left the network!
+[19:25:52]: JOIN > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has joined the network!
+[19:27:45]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /clear
+[19:28:56]: SWITCH > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has moved to the §cs2 §eserver!
+[19:29:04]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gamemode creative
+[19:29:18]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gd claim
+[19:29:21]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gd claimgroup admin
+[19:29:25]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gd:callback f2be58bc-efee-4f51-9a2c-cf0eb5ee4474
+[19:29:27]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gd:callback 79af5bf4-8d32-4d10-a2e7-3e0411559b45
+[19:29:51]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gd delete BASIC
+[19:29:53]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gd delete
+[19:29:54]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gd delete all
+[19:29:56]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gd
+[19:33:06]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warp Carrotthia
+[19:35:00]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /thru
+[19:36:03]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gamemode spectator
+[19:36:09]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gamemode creative
+[19:36:25]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /clear
+[19:36:37]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /server s1
+[19:36:37]: SWITCH > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has moved to the §cs1 §eserver!
+[19:36:54]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /give coff3e milk_bucket 1
+[19:37:05]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /fly
+[19:37:08]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /god
+[19:37:55]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warp
+[19:37:57]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warp 2
+[19:37:59]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warp THE
+[19:40:52]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /server lobby
+[19:40:52]: SWITCH > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has moved to the §clobby §eserver!
+[19:40:58]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /spawn
+[19:41:08]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gamemode creative
+[19:42:18]: SWITCH > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has moved to the §cs2 §eserver!
+[19:42:26]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /mmilk
+[19:43:04]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /spawn
+[19:43:55]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warp CapitalCity
+[19:45:38]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /restart
+[19:45:38]: LEAVE > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has left the network!
+[19:45:41]: JOIN > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has joined the network!
+[19:45:48]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gamemode creative
+[19:46:05]: SWITCH > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has moved to the §cs1 §eserver!
+[19:46:09]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /restart
+[19:46:09]: LEAVE > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has left the network!
+[19:46:13]: JOIN > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has joined the network!
+[19:47:37]: LEAVE > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has left the network!
+[19:48:20]: JOIN > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has joined the network!
+[19:48:54]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /speed 10
+[19:50:20]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /bluemap
+[19:50:24]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tps
+[19:50:25]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tabtps
+[19:50:28]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tabtps toggle
+[19:50:33]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /pm disable TabTPS
+[19:50:38]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /pm disable TAB
+[19:50:42]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /pm enable TabTPS
+[19:50:46]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tab:tab
+[19:50:50]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tps
+[19:50:55]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tps
+[19:50:56]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tps
+[19:50:58]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tab:tab
+[19:50:59]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tps
+[19:51:01]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tps
+[19:51:01]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tps
+[19:51:03]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /ping
+[19:51:47]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /restart
+[19:51:47]: LEAVE > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has left the network!
+[19:51:50]: JOIN > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has joined the network!
+[19:52:00]: SWITCH > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has moved to the §cs2 §eserver!
+[19:52:05]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /restart
+[19:52:05]: LEAVE > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has left the network!
+[19:52:12]: JOIN > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has joined the network!
+[19:52:18]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /spawn
+[19:53:50]: SWITCH > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has moved to the §cs1 §eserver!
+[19:53:58]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tps
+[19:54:07]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /give coff3e milk_bucket 1
+[19:54:14]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /spawn
+[19:54:17]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warp Alexandria
+[19:54:33]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warps
+[19:54:34]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warp BigBenCity
+[19:54:46]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warp
+[19:54:55]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warp HackersFjord
+[19:55:33]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warp CoolTowne
+[19:55:41]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /speed 5
+[19:55:54]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warp Icepoint
+[19:56:11]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warp NewBabylon
+[19:56:29]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warp lantis
+[19:57:07]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /thru
+[19:57:25]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /thru
+[19:57:29]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warps
+[19:57:30]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warps 2
+[19:57:32]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warp TownCity
+[19:57:50]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warp PogMountain
+[19:58:14]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warp 2
+[19:58:22]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warp orion
+[19:58:33]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /speed 10
+[19:58:39]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /speed 1
+[19:58:51]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /time set day
+[19:58:55]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gamemode spectator
+[19:59:09]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /gamemode creative
+[19:59:40]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warp carsonsmpbase
+[19:59:44]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /warp Carrotthia
+[20:00:32]: COMMAND > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /server s2
+[20:00:32]: SWITCH > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has moved to the §cs2 §eserver!
+[20:00:50]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /speed 10
+[20:03:31]: LEAVE > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has left the network!
+[23:07:19]: JOIN > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has joined the network!
+[23:07:45]: SWITCH > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has moved to the §cs2 §eserver!
+[23:08:03]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /bluemap
+[23:08:06]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /bluemap start
+[23:08:07]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /bluemap
+[23:08:10]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /bluemap
+[23:08:11]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /bluemap
+[23:08:12]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /bluemap
+[23:13:19]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /bluemap
+[23:15:46]: LEAVE > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has left the network!
+[23:26:59]: JOIN > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has joined the network!
+[23:27:08]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /spawn
+[23:27:30]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /op coff3e
+[23:27:39]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp editor
+[23:28:23]: SWITCH > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has moved to the §cs2 §eserver!
+[23:28:27]: COMMAND > s2 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /server lobby
+[23:28:27]: SWITCH > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has moved to the §clobby §eserver!
+[23:28:33]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /spawn
+[23:31:27]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp applyedits XYm2Ea2tJF
+[23:31:54]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /lp networksync
+[23:32:10]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /imagemap list
+[23:32:21]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /imagemap place cry.jpg
+[23:32:31]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /imagemap place cry.jpg
+[23:32:58]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /imagemap delete cry
+[23:32:59]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /imagemap delete cry.jpg
+[23:33:04]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /imagemap download
+[23:34:25]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /imagemap download https://media.discordapp.net/attachments/923830890222735374/1092955284705648680/devin.png?height=256px
+[23:34:30]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /imagemap download https://media.discordapp.net/attachments/923830890222735374/1092955284705648680/devin.png devin
+[23:34:32]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /imagemap download https://media.discordapp.net/attachments/923830890222735374/1092955284705648680/devin.png devin.png
+[23:34:40]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /imagemap download devin https://media.discordapp.net/attachments/923830890222735374/1092955284705648680/devin.png
+[23:34:45]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /imagemap place devin
+[23:35:01]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /imagemap download devin https://media.discordapp.net/attachments/923830890222735374/1092955284705648680/devin.png?height=512
+[23:36:11]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /imagemap
+[23:36:14]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /imagemap delete devin
+[23:36:37]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /pm delete ImageMaps
+[23:38:13]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /pm download direct https://github.com/zDevelopers/ImageOnMap/releases/download/v4.2.2/ImageOnMap-4.2.2.jar ImageOnMap-4.2.2.jar
+[23:38:20]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /pm list
+[23:38:28]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /pm load ImageOnMap-4.2.2.jar
+[23:38:39]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /pm enable ImageOnMap-4.2.2.jar
+[23:38:41]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /pm enable ImageOnMap
+[23:38:45]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tomap
+[23:39:11]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /maptool new https://media.discordapp.net/attachments/923830890222735374/1092955284705648680/devin.png 512px
+[23:39:13]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /maptool new https://media.discordapp.net/attachments/923830890222735374/1092955284705648680/devin.png
+[23:41:04]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /maptool new https://media.discordapp.net/attachments/923830890222735374/1092955284705648680/devin.png 256
+[23:41:06]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /maptool new https://media.discordapp.net/attachments/923830890222735374/1092955284705648680/devin.png 12
+[23:41:16]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /maptool new https://media.discordapp.net/attachments/923830890222735374/1092955284705648680/devin.png 2
+[23:41:18]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /maptool new https://media.discordapp.net/attachments/923830890222735374/1092955284705648680/devin.png 2px
+[23:41:21]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /maptool new https://media.discordapp.net/attachments/923830890222735374/1092955284705648680/devin.png 100%
+[23:41:24]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /maptool new https://media.discordapp.net/attachments/923830890222735374/1092955284705648680/devin.png what
+[23:41:28]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /maptool new https://media.discordapp.net/attachments/923830890222735374/1092955284705648680/devin.png resize
+[23:41:34]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /clear
+[23:41:56]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /maptool get Map
+[23:42:04]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /maptool delete Map-1
+[23:42:06]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /maptool delete coff3e:"Map-1" --confirm
+[23:42:10]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /maptool delete Map
+[23:42:12]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /maptool delete coff3e:"Map" --confirm
+[23:42:17]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /clear
+[23:42:22]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /maptool new https://media.discordapp.net/attachments/923830890222735374/1092955284705648680/devin.png resize
+[23:43:21]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /clear
+[23:43:57]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /maptool new https://media.discordapp.net/attachments/923833387905581108/1088733474485182474/20230323_225804.jpg
+[23:44:13]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /maptool new https://media.discordapp.net/attachments/923833387905581108/1088733474485182474/20230323_225804.jpg 3.5x23
+[23:44:14]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /maptool new https://media.discordapp.net/attachments/923833387905581108/1088733474485182474/20230323_225804.jpg 3.5x2
+[23:44:16]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /maptool new https://media.discordapp.net/attachments/923833387905581108/1088733474485182474/20230323_225804.jpg resize
+[23:44:40]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /maptool new https://media.discordapp.net/attachments/923833387905581108/1088733474485182474/20230323_225804.jpg resize:
+[23:44:54]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /maptool new https://media.discordapp.net/attachments/923833387905581108/1088733474485182474/20230323_225804.jpg resize
+[23:45:22]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /clear
+[23:46:47]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tomap get
+[23:46:49]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tomap list
+[23:46:53]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /maptool list
+[23:46:57]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /maptool get Map
+[23:47:07]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /hologram delete lone_pufferfish
+[23:47:17]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /clear
+[23:47:22]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /sit
+[23:48:28]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /tomap rename
+[23:48:55]: SWITCH > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has moved to the §cs1 §eserver!
+[23:49:11]: LEAVE > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has left the network!
+[23:49:14]: JOIN > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has joined the network!
+[23:49:30]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /plugins
+[23:49:34]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /plasmovoice:vlist
+[23:49:36]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /plasmovoice:
+[23:49:37]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /plasmovoice
+[23:49:39]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /plasmovoice
+[23:49:43]: COMMAND > lobby > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): /plasmovoice:vrc
+[23:55:57]: SWITCH > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has moved to the §cs1 §eserver!
+[23:57:06]: LEAVE > s1 > coff3e(b87b8f10-3824-45c7-a457-9b919dd9d6c2): §ecoff3e has left the network!

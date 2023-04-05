@@ -1,0 +1,43 @@
+language: en_US
+payment-provider: default
+check-updates: true
+skip-natural-mob-grief: false
+group-settings:
+  default:
+    max-claims: -1
+visualization:
+  visual-type: glow
+  claim-items:
+    world: OAK_FENCE
+    world_nether: OAK_FENCE
+    world_the_end: OAK_FENCE
+  visual-use-highest-block: false
+  alert:
+    fade-in: 10
+    duration: 1
+    fade-out: 10
+  visual-colors:
+    GOLD: ORANGE_CONCRETE
+    RED: RED_CONCRETE
+    GREEN: LIME_CONCRETE
+    YELLOW: GREEN_CONCRETE
+    WHITE: WHITE_CONCRETE
+eject:
+  useCommandInstead: false
+  command: home
+allow-player-teleport-claim: false
+events:
+  teleport:
+    ENDER_PEARL: block
+    COMMAND: block
+    PLUGIN: block
+    NETHER_PORTAL: block
+    END_PORTAL: block
+    SPECTATE: block
+    END_GATEWAY: block
+    CHORUS_FRUIT: block
+money-per-block: 0.01
+disabled-worlds: []
+block-pvp-inside-claims: false
+bypass-mode-bypasses-payment: false
+statistics: true

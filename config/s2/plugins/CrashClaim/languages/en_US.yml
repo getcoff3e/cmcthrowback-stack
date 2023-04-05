@@ -1,0 +1,677 @@
+placeholderapi:
+  visual-status-shown: shown
+  visual-status-hidden: hidden
+pvp-disabled-inside-claim: <red>PvP is disabled inside of claims!
+disabled-world: <red>Claiming is disabled inside this world.
+update-available: |-
+  <yellow>An updated <bold>CrashClaim <version></bold> is now available to download on SpigotMC!
+  <gold>Download now at https://whips.dev/crashclaim
+max-claims-reached: <red>You have claimed the maximum amount of claims possible.
+bypass:
+  enabled: <green>Enabled claim bypass. You are now bypassing permissions
+  disabled: <red>Disabled claim bypass.
+eject:
+  no-permission: <red>You do not have the modify permission ability inside this claim.
+  invalid-player: <red>The specified player could not be found.
+  not-same-claim: <red>That player is not standing in the same claim as you.
+  has-permission: <red>That player has the modify permissions ability inside this
+    claim and cannot be ejected.
+  been-ejected: <red>You have been ejected from the claim you were standing in by
+    another player.
+  success: <green>You have successfully ejected that player to the edge of the claim.
+  no-claim: <red>There is no claim where you are standing.
+hide-claims:
+  success: <green>Claim visuals have been hidden.
+show-claims:
+  success: <green>Claim visuals have been shown.
+claim-teleport:
+  teleport-own: <green>You have successfully teleported to your claim.
+  teleport-other: <green>You have successfully teleported to the claim.
+  teleport-no-permission: <red>You do not have permission to teleport to that claim.
+claim-settings:
+  no-claim: <red>There is no claim where you are standing.
+un-claim-all:
+  menu:
+    confirmation:
+      title: Confirm Delete All Claims
+      message:
+        title: <dark_red>Permanently Delete all claims?
+        lore:
+        - '<red>Claim Blocks will be restored to '
+        - <red>the contributing parties
+        type: BOOK
+        count: 1
+      accept:
+        title: <gold>Accept
+        lore: []
+        type: GREEN_CONCRETE
+        count: 1
+      deny:
+        title: <gold>Cancel
+        lore: []
+        type: RED_CONCRETE
+        count: 1
+  no-permission: <red>You do not have permission to the claim named <gold><name></gold>.
+  no-permission-in-all: <red>You do not have permission to modify the claim named
+    <gold><name></gold> and all of its sub-claims
+  no-claim: <red>You do not own any to un-claim.
+un-claim:
+  menu:
+    confirmation:
+      title: Confirm Delete Claim
+      message:
+        type: PAPER
+        title: <dark_red>Permanently Delete this claim?
+        lore:
+        - '<red>Claim Blocks will be restored to '
+        - <red>the contributing parties
+        count: 1
+      accept:
+        title: <gold>Accept
+        lore: []
+        type: GREEN_CONCRETE
+        count: 1
+      deny:
+        title: <gold>Cancel
+        lore: []
+        type: RED_CONCRETE
+        count: 1
+  no-permission: <red>You do not have permission to modify this claim.
+  no-permission-in-all: <red>You do not have permission to modify this claim and all
+    of its sub-claims
+  no-claim: <red>There is no claim where you are standing.
+un-subclaim:
+  menu:
+    confirmation:
+      title: Confirm Delete Sub-Claim
+      message:
+        type: PAPER
+        title: <dark_red>Permanently Delete this claim?
+        lore:
+        - '<red>Claim Blocks will be restored to '
+        - <red>the contributing parties
+        count: 1
+      accept:
+        title: <gold>Accept
+        lore: []
+        type: GREEN_CONCRETE
+        count: 1
+      deny:
+        title: <gold>Cancel
+        lore: []
+        type: RED_CONCRETE
+        count: 1
+    no-permission: <red>You do not have permission to modify this sub-claim.
+    no-claim: <red>There is no sub-claim where you are standing.
+reload:
+  reloading: <yellow>Starting Config Reload...
+  reloaded: <green>Finished Reloading Configs.
+migrate:
+  warning-players-online: <red><bold>It is not recommended to initiate a migration
+    when there are players online.
+  warning-backup: <red><bold>Backup both the plugin you are migrating data from, and
+    existing CrashClaim data before continuing.
+  no-adapter: <red>There is no migration adapter with that identifier. Try '/migratedata
+    list' for more details on available adaptors.
+  selected: <green>Selected <yellow><adapter> <green>for migration
+  list:
+    title: <yellow>Migration Adaptors
+    available: <green>Available
+    disabled: <red>Disabled - <error>
+    message: '<green><identifier><white>: <status>'
+  confirm:
+    not-selected:
+    - <red>There is no currently selected migration adaptor.
+    - Use /migratedata [adaptor] to select a valid adaptor.
+    failed-requirements:
+    - <red>There was an error while checking the requirements of the selected migration
+      adaptor.
+    - <error>
+    start-message:
+    - <yellow>Starting migration of data using [<identifier>]
+    - <yellow><bold>Do not shut down the server until completion.
+    error:
+    - <red>The migration has ended in an error, no data has been saved or modified.
+    - <error>
+    - <dark_red>----- WARNING -----
+    - <red>Data saving has been turned off due to the migrator possibly putting the
+      data manager in an unsafe state.
+    - Restart the server to enable saving of data.
+    - <dark_red>----- WARNING -----
+    success:
+    - <bold><green>Migration of data using [<identifier>] has completed without error
+    - <green>It is recommended to restart the server and remove the data that has
+      been migrated from the migrated plugin
+  cancel: <green>Unselected migration adapter.
+show:
+  subclaim:
+    no-permission: <red>You need permission to view sub-claims.
+    no-subclaims: <green>There are no sub-claims to visualize
+    stand-inside: <red>You need to stand in a claim to visualize its sub-claims.
+claim-info:
+  status-enabled: <dark_green>Enabled
+  status-disabled: <red>Disabled
+  message:
+  - <gold>Claim Info | <yellow>[<min_x>, <min_z>] - [<max_x>, <max_z>]
+  - '<green>Owner: <white><owner>'
+  - <gold>Global Permissions
+  - '<green>Build <yellow>: <build_status>'
+  - '<green>Entities <yellow>: <entities_status>'
+  - '<green>Interactions <yellow>: <interactions_status>'
+  - '<green>View Sub-Claims <yellow>: <view_sub_claims_status>'
+  - '<green>Teleportation <yellow>: <teleportation_status>'
+  - '<green>Explosions <yellow>: <explosions_status>'
+  - '<green>Fluids <yellow>: <fluids_status>'
+  - '<green>Pistons <yellow>: <pistons_status>'
+  - <gold>Global Container Permissions
+  container-message: '<green><name> <yellow>: <status>'
+  no-claim: <red>There is no claim where you are standing.
+new-claim:
+  info: <yellow>Click two corners to form a new claim. To resize an existing claim
+    click a corner or side to resize in that direction.
+  click-corner: <green>Click an opposite corner to form a new claim.
+  min-size: <red>A claim has to be at least a 5x5.
+  overlapping: <red>You cannot claim over an existing claim.
+  other-error: <red>You cannot claim because of another region or plugin wont allow
+    it.
+  not-enough-balance: <red>You need <price> coins to claim that area.
+  success: <green>Claim has been successfully created.
+  error: <red>Error creating claim.
+  default-claim-name: <gold><id>
+  create-menu:
+    title: Confirm Claim Creation
+    message:
+      title: '<green>The claim creation will cost: <yellow><price>'
+      lore:
+      - <gold>Confirm or deny the creation.
+      type: EMERALD
+      count: 1
+    accept:
+      title: <gold>Accept
+      lore: []
+      type: GREEN_CONCRETE
+      count: 1
+    deny:
+      title: <gold>Cancel
+      lore: []
+      type: RED_CONCRETE
+      count: 1
+new-subclaim:
+  info: <yellow>Click two corners to form a new sub-claim. To resize an existing sub-claim
+    click a corner or side to resize in that direction.
+  click-corner: <green>Click an opposite corner to form a sub-claim
+  not-inside-parent: <red>Sub-Claims can only be formed inside of a parent claim.
+  success: <green>Successfully created sub-claim.
+  min-area: <red>A sub-claim needs to be at least a 5x5 area.
+  need-parent: <red>You cannot form a sub-claim outside of a parent claim.
+  no-overlap: <red>You cannot overlap an existing sub-claim.
+  error: <red>There was an error creating the sub-claim.
+claim:
+  enabled: <green>Claim mode <bold>enabled!
+  disabled: <red>Claim mode <bold>disabled!
+subclaim:
+  enabled: <green>Sub-Claiming mode <bold>enabled!
+  disabled: <red>Sub-Claiming mode <bold>disabled!
+  no-claim: <red>You need to be standing in a claim to enable sub-claiming mode.
+  no-permission: <red>You need permission to modify this sub-claims.
+  already-resizing: <red>The claim your are attempting to resize is already being
+    resized.
+resize:
+  click-another-location: <green>Click another location to resize the claim.
+  no-permission: <red>You do not have permission to modify this claim.
+  instructions: <red>You need to click the border of the claim to resize it. Grabbing
+    an edge will move it in that direction, grabbing a corner will move it in both
+    directions relative to the corner.
+  success: <green>Claim successfully resized
+  no-overlap: <red>You cannot overlap other claims.
+  min-size: <red>A claim has to be at least a 5x5
+  cannot-flip: <red>Claims cannot be flipped, please retry and grab the other edge
+    to expand in this direction
+  overlap-existing: <red>Sub-Claims cannot overlap over existing sub-claims.
+  error-other: <red>Another region or plugin is preventing the claim from being resized.
+  transaction-error: <red><error>
+  no-longer-permission: <red>You no longer have permission to resize the claim.
+  menu:
+    confirmation:
+      title: Confirm Claim Resize
+      message:
+        title: '<green>The claim resize will cost: <yellow><price>'
+        lore:
+        - <gold>Confirm or deny the resize.
+        type: EMERALD
+        count: 1
+      accept:
+        title: <gold>Accept
+        lore: []
+        type: GREEN_CONCRETE
+        count: 1
+      deny:
+        title: <gold>Cancel
+        lore: []
+        type: RED_CONCRETE
+        count: 1
+resize-subclaim:
+  instructions: <red>You need to click the border of the sub-claim to resize it. Grabbing
+    an edge will move it in that direction, grabbing a corner will move it in both
+    directions relative to the corner.
+  click-another-location: <green>Click another location to resize the claims.
+  inside-parent: <red>Sub-Claims can only be formed inside of a parent claim.
+  no-overlap: <red>You cannot overlap other sub-claims.
+  min-size: <red>A claim has to be at least a 5x5.
+  cannot-flip: Claims cannot be flipped, please retry and grab the other edge to expand
+    in this direction.
+  success: <green>Claim has been successfully resized.
+contribution-refund: <green>You have received <gold><amount> <green>for a refunded
+  contribution to a claim.
+menu:
+  simple-permissions:
+    title: Simple Permissions
+    no-permission: <red>You no longer have sufficient permissions to continue
+  sub-claim-simple-permissions:
+    title: Simple Sub-Claim Permissions
+  advanced-permissions:
+    title: Advanced Permissions
+    no-permission: <red>You no longer have sufficient permissions to continue
+  sub-claim-advanced-permissions:
+    title: Advanced Sub-Claim Permissions
+  general:
+    insufficient-permission: <red>You no longer have sufficient permissions to continue
+    claim-item-no-owner:
+      type: PAPER
+      title: <name>
+      lore:
+      - '<green>Coordinates: <yellow><min_x>, <min_z><gold> | <yellow><max_x>, <max_z>'
+      - '<green>World: <yellow><world>'
+      count: 1
+    claim-item:
+      type: PAPER
+      title: <name>
+      lore:
+      - '<green>Coordinates: <yellow><min_x>, <min_z><gold> | <yellow><max_x>, <max_z>'
+      - '<green>World: <yellow><world>'
+      - '<green>Owner: <yellow><owner>'
+      count: 1
+    claim-item-player:
+      type: PAPER
+      title: <gold><name>
+      lore:
+      - '<green>Claim Coordinates: <yellow><min_x>, <min_z><gold> | <yellow><max_x>,
+        <max_z>'
+      - '<green>Claim World: <yellow><world>'
+      count: 1
+    page-display:
+      title: <gold>Page <page> / <page_total>
+      lore: []
+      type: ARROW
+      count: 1
+    next-button:
+      title: <yellow>Next
+      lore: []
+      type: OAK_BUTTON
+      count: 1
+    previous-button:
+      title: <yellow>Previous
+      lore: []
+      type: OAK_BUTTON
+      count: 1
+    back-button:
+      title: <gold>Back
+      lore: []
+      type: ARROW
+      count: 1
+  list-players:
+    title: Select Player
+  claim:
+    title: Claim Settings
+    rename:
+      message:
+        title: Enter new claim name
+        lore: []
+        type: PAPER
+        count: 1
+      confirmation: <green>Change claim name to <gold><name>
+    entry-message:
+      message:
+        title: Enter new claim entry message
+        lore: []
+        type: PAPER
+        count: 1
+      confirmation: <green>Change claim entry message to <gold><entry_message>
+    exit-message:
+      message:
+        title: Enter new claim exit message
+        lore: []
+        type: PAPER
+        count: 1
+      confirmation: <green>Change claim exit message to <gold><exit_message>
+  claim-list:
+    title: Claims
+  sub-claim:
+    title: Sub-Claim Settings
+  sub-claim-list:
+    title: Sub-Claims
+  permissions:
+    buttons:
+      per-player:
+        title: <gold>Per Player Settings
+        lore:
+        - <green>Edit claim permissions on a per player basis
+        type: PLAYER_HEAD
+        count: 1
+      per-player-disabled:
+        title: <gray>Per Player Settings
+        lore:
+        - <dark_gray>Edit claim permissions on a per player basis
+        type: PLAYER_HEAD
+        count: 1
+      global:
+        title: <gold>Global Claim Settings
+        lore:
+        - <green>Set global permissions for your claim
+        type: COMPASS
+        count: 1
+      global-disabled:
+        title: <gray>Global Claim Settings
+        lore:
+        - <dark_gray>Set global permissions for your claim
+        type: COMPASS
+        count: 1
+      rename:
+        title: <gold>Rename Claim
+        lore:
+        - <green>Rename your claim to easily identify it
+        type: ANVIL
+        count: 1
+      rename-disabled:
+        title: <gray>Rename Claim
+        lore:
+        - <dark_gray>Rename your claim to easily identify it
+        type: ANVIL
+        count: 1
+      edit-entry:
+        title: <gold>Edit Entry Message
+        lore:
+        - <green>Edit the entry message of your claim
+        type: ANVIL
+        count: 1
+      edit-entry-disabled:
+        title: <gray>Edit Entry Message
+        lore:
+        - <dark_gray>Edit the entry message of your claim
+        type: ANVIL
+        count: 1
+      edit-exit:
+        title: <gold>Edit Exit Message
+        lore:
+        - <green>Edit the exit message of your claim
+        type: ANVIL
+        count: 1
+      edit-exit-disabled:
+        title: <gray>Edit Exit Message
+        lore:
+        - <dark_gray>Edit the exit message of your claim
+        type: ANVIL
+        count: 1
+      delete:
+        title: <gold>Delete Claim
+        lore:
+        - <green>Delete your claim permanently
+        type: RED_CONCRETE
+        count: 1
+      delete-disabled:
+        title: <gray>Delete Claim
+        lore:
+        - <dark_gray>Delete your claim permanently
+        type: GRAY_CONCRETE
+        count: 1
+    buttons-subclaims:
+      title: <gold>Sub-Claims
+      lore:
+      - <green>View the a list of the sub-claims for this claim
+      type: WRITABLE_BOOK
+      count: 1
+    buttons-no-subclaims:
+      title: <gray>No Sub-Claims
+      lore:
+      - <dark_gray>There are no sub-claims you have permission to list.
+      type: WRITABLE_BOOK
+      count: 1
+    containers:
+      display:
+        type: PAPER
+        title: <gold><name>
+        lore: []
+        count: 1
+      title: <gold>Containers
+      lore:
+      - <green>Allow access to containers
+      type: BARREL
+      count: 1
+    pistons:
+      title: <gold>Allow Pistons
+      lore:
+      - <green>Allows pistons to push and pull across the claim border
+      type: PISTON
+      count: 1
+    fluids:
+      title: <gold>Allow Fluids
+      lore:
+      - <green>Allows fluids to flow across the claim border
+      type: WATER_BUCKET
+      count: 1
+    view-sub-claims:
+      title: <gold>View Sub-Claims
+      lore:
+      - <green>Allows players to view the sub-claims
+      type: SEA_LANTERN
+      count: 1
+    build:
+      title: <gold>Build
+      lore:
+      - <green>Allow breaking and placing of blocks
+      type: GRASS_BLOCK
+      count: 1
+    entities:
+      title: <gold>Entities
+      lore:
+      - <green>Allow interacting with entities
+      type: ZOMBIE_HEAD
+      count: 1
+    interactions:
+      title: <gold>Interactions
+      lore:
+      - <green>Allow interacting with blocks such as
+      - <green>doors, levers, and more
+      type: OAK_FENCE_GATE
+      count: 1
+    explosions:
+      title: <gold>Explosions
+      lore:
+      - <green>Allow explosions from tnt, creepers,
+      - <green>and more
+      type: TNT
+      count: 1
+    teleportation:
+      title: <gold>Teleportation
+      lore:
+      - <green>Allow players to teleport inside
+      - <green>of the claim.
+      type: ENDER_PEARL
+      count: 1
+    modify-permissions:
+      title: <gold>Modify Permissions
+      lore:
+      - <green>Allow user to modify claim permissions,
+      - <green>players can only grant permissions they have
+      - <green>to others
+      type: CRAFTING_TABLE
+      count: 1
+    modify-claim:
+      title: <gold>Modify Claim
+      lore:
+      - <green>Allow user to modify the claim,
+      - <green>this includes resizing, deleting, and modifying
+      - <green>all claim traits
+      type: OAK_FENCE
+      count: 1
+    admin:
+      title: <gold>Admin
+      lore:
+      - <green>Grants the user the ability to modify and grant
+      - <green>permissions they are granted and modify every
+      - <green>aspect of the claim, this includes deleting
+      - <green>the claim.
+      type: BEACON
+      count: 1
+    misc:
+      title: <gold>Misc
+      lore:
+      - <green>Allows mob griefing and allows pistons and fluids to flow
+      - <green>across the claim border
+      type: SEA_LANTERN
+      count: 1
+    subclaim-admin:
+      title: <gold>Sub-Claim Admin
+      lore:
+      - <green>Grants the user the ability to modify and grant
+      - <green>permissions they are granted and modify every
+      - <green>aspect of the claim besides resizing, this includes
+      - <green>deleting the claim.
+      type: BEACON
+      count: 1
+    entity-grief:
+      title: <gold>Mob Griefing
+      lore:
+      - <green>Allows creepers, enderman and other mobs to interact
+      - <green>with blocks inside of the claim
+      type: CREEPER_HEAD
+      count: 1
+  permissions-toggles:
+    enable:
+      'off':
+        title: <dark_green>Enable
+        lore: []
+        type: GREEN_STAINED_GLASS
+        count: 1
+      disabled:
+        title: <gray>Enable
+        lore: []
+        type: GRAY_STAINED_GLASS_PANE
+        count: 1
+      selected:
+        title: <green>Enabled
+        lore: []
+        type: GREEN_CONCRETE
+        count: 1
+      selected-disabled:
+        title: <gray>Enabled
+        lore: []
+        type: GRAY_CONCRETE
+        count: 1
+      overrode:
+        title: <yellow>Enabled
+        lore: []
+        type: YELLOW_STAINED_GLASS_PANE
+        count: 1
+    neutral:
+      'off':
+        title: <dark_gray>Neutral
+        lore: []
+        type: GRAY_STAINED_GLASS
+        count: 1
+      disabled:
+        title: <gray>Neutral
+        lore: []
+        type: GRAY_STAINED_GLASS_PANE
+        count: 1
+      selected:
+        title: <gray>Neutral
+        lore: []
+        type: GRAY_CONCRETE
+        count: 1
+      selected-disabled:
+        title: <gray>Neutral
+        lore: []
+        type: GRAY_CONCRETE
+        count: 1
+      overrode:
+        title: <yellow>Neutral
+        lore: []
+        type: YELLOW_STAINED_GLASS_PANE
+        count: 1
+    disable:
+      'off':
+        title: <dark_red>Disable
+        lore: []
+        type: RED_STAINED_GLASS
+        count: 1
+      disabled:
+        title: <gray>Disable
+        lore: []
+        type: GRAY_STAINED_GLASS_PANE
+        count: 1
+      selected:
+        title: <red>Disabled
+        lore: []
+        type: RED_CONCRETE
+        count: 1
+      selected-disabled:
+        title: <gray>Disabled
+        lore: []
+        type: GRAY_CONCRETE
+        count: 1
+      overrode:
+        title: <yellow>Disabled
+        lore: []
+        type: YELLOW_STAINED_GLASS_PANE
+        count: 1
+  permission-option:
+    simple:
+      title: <gold>Simple Configuration
+      lore:
+      - <green>A simple look and feel to modify claim
+      - <green>permissions
+      type: CRAFTING_TABLE
+      count: 1
+    advanced:
+      title: <yellow>Advanced Configuration
+      lore:
+      - <green>An advanced menu to deep dive into
+      - <green>permission configuration
+      type: SMITHING_TABLE
+      count: 1
+    general:
+      title: <gold>General
+      lore: []
+      type: SMITHING_TABLE
+      count: 1
+    containers:
+      title: <gold>Containers
+      lore: []
+      type: BARREL
+      count: 1
+    admin:
+      title: <gold>Admin
+      lore: []
+      type: BEACON
+      count: 1
+    unused:
+      title: <grey>Unused
+      lore:
+      - <dark_grey>No permissions fall under this category.
+      type: GRAY_STAINED_GLASS
+      count: 1
+    misc:
+      title: <gold>Misc
+      lore: []
+      type: CRAFTING_TABLE
+      count: 1
+alert:
+  no-permissions:
+    build: <red>You do not have permission to build in this claim
+    interaction: <red>You do not have permission to interact in this claim.
+    containers: <red>You do not have permission to open containers in this claim.
+    entities: <red>You do not have permission to interact with entities in this claim
+    teleport: <red>You do not have permission to teleport to that claim.
+    teleport-relocate: <red>You do not have permission to teleport to that claim.
+      You have been relocated outside of it.

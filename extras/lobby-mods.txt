@@ -1,0 +1,34 @@
+# EssentialsX
+https://github.com/EssentialsX/Essentials/releases/download/2.19.7/EssentialsX-2.19.7.jar
+# EssentialsX Spawn
+https://github.com/EssentialsX/Essentials/releases/download/2.19.7/EssentialsXSpawn-2.19.7.jar
+# EssentialsX AntiBuild
+https://github.com/EssentialsX/Essentials/releases/download/2.19.7/EssentialsXAntiBuild-2.19.7.jar
+# ViaVersion
+https://github.com/ViaVersion/ViaVersion/releases/download/4.6.2/ViaVersion-4.6.2.jar
+# LuckPerms
+https://download.luckperms.net/1475/bukkit/loader/LuckPerms-Bukkit-5.4.64.jar
+# FastAsyncWorldEdit
+https://cdn.modrinth.com/data/z4HZZnLr/versions/T5dCGWt2/FastAsyncWorldEdit-Bukkit-2.5.2.jar
+# CoreProtect
+#https://cdn.modrinth.com/data/Lu3KuzdV/versions/mvLpRWww/CoreProtect-21.3.jar
+# WorldGuard
+#https://mediafilez.forgecdn.net/files/3677/516/worldguard-bukkit-7.0.7-dist.jar
+# Vault
+https://github.com/MilkBowl/Vault/releases/download/1.7.3/Vault.jar
+# TAB
+https://cdn.modrinth.com/data/cUhi3iB2/versions/XRXBIyQG/tabtps-spigot-1.3.16.jar
+# Plasmo Voice
+https://github.com/plasmoapp/plasmo-voice/releases/download/2.0.2/PlasmoVoice-Paper-2.0.2.jar
+# SimplePortals
+https://github.com/XZot1K/SimplePortals/releases/download/1.7.2/SimplePortals-1.7.2.jar
+# BungeeGuard
+https://github.com/lucko/BungeeGuard/releases/download/v1.3.3/BungeeGuard.jar
+# GSit
+https://github.com/Gecolay/GSit/releases/download/1.4.2/GSit-1.4.2.jar
+# PluginManager
+https://github.com/Lenni0451/SpigotPluginManager/releases/download/2.7.4/PluginManager.jar
+# DecentHolograms
+https://github.com/DecentSoftware-eu/DecentHolograms/releases/download/2.8.1/DecentHolograms-2.8.1.jar
+# ImageOnMap
+https://github.com/zDevelopers/ImageOnMap/releases/download/v4.2.2/ImageOnMap-4.2.2.jar

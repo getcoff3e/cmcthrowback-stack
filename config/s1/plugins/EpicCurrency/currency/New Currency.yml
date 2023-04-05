@@ -1,0 +1,20 @@
+currency:
+  name: New Currency
+  prefix: '$ '
+  suffix: ' Dollars'
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: DIAMOND
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"text":"New Currency"}],"text":""}'
+      lore:
+      - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"#00AAAA","text":"Amount:
+        "},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"1.0"}],"text":""}'
+      - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"#55FFFF","text":"Value:
+        "},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"#AAAAAA","text":"$
+        1.0 Dollars"},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"#55FFFF","text":""}],"text":""}'
+  maxStack: 100000.0
+  vaultValue: 1.0

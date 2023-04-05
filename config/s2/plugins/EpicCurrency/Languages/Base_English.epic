@@ -1,0 +1,47 @@
+#
+# Official Language File
+# To make your own language file, copy this file and edit the copy
+#
+# Changes made to this file will be reset!
+# Do not edit it!
+#
+
+Back.click: "Click to go back"
+Back.name: "Back"
+Search.click: "Click to search"
+Search.name: "Search"
+command.noConsole: "This command cannot be run through the console"
+command.noPermission: "You don't have **access** to that command"
+command.usage.title: "Usage:"
+day: "day"
+days: "days"
+disable: "disable"
+disabled: "disabled"
+enable: "enable"
+enabled: "enabled"
+free: "Free"
+generalSettingsView.select.action: "Click to show Settings"
+generalSettingsView.select.indicator: "This page is currently **selected**"
+generalSettingsView.title: "Settings > %"
+hour: "hour"
+hours: "hours"
+languagePane.coverage: "Coverage: **%coverage%%**"
+languagePane.name: "Language"
+languagePane.select.action: "**Click** to **select** this language"
+languagePane.select.indicator: "This language is **currently** selected"
+languagePane.terms: "Terms: **%terms%**"
+materialPickerView.choose.action: "**Click** to choose"
+minute: "minute"
+minutes: "minutes"
+none: "none"
+pageableView.next.action: "Click to go to the next page"
+pageableView.next.title: "Next"
+pageableView.previous.action: "Click to go to the previous page"
+pageableView.previous.title: "Previous"
+pageableView.search.closeAction: "Click to **close** the search"
+pageableView.search.subtitle: "Type in a search term"
+pageableView.search.title: "Search"
+second: "second"
+seconds: "seconds"
+settings: "settings"
+userInput.leftClickClose: "**Left Click** to close"

@@ -1,0 +1,106 @@
+# This config was last loaded with ClaimChunk version 0.0.23-RC7
+# 
+# This is the per-world config file for the world "world_the_end"
+# 
+#    _    _      _
+#   | |  | |    | |
+#   | |__| | ___| |_ __
+#   |  __  |/ _ \ | '_ \
+#   | |  | |  __/ | |_) |
+#   |_|  |_|\___|_| .__/
+#                 | |
+#                 |_|
+#  -----------------------
+# 
+# Each label has `claimedChunks` or `unclaimedChunks` and `blockAccesses` or `entitiesAccesses`
+# Under each label, the code name of either an entity or block appears, followed by the protections (order for protections does *NOT* matter).
+# Protections with a value of `true` will be allowed, those with a value of `false` will not.For blocks, the protections are: `B` for breaking, `P` for placing, `I` for interacting, and `E` for exploding.
+# For entities, the protections are: `D` for damaging, `I` for interacting, and `E` for exploding.
+# Note: These protections (except for exploding) are purely player-based.
+# I.e. `D` for damaging entities, when set to `D:false` will prevent players from damaging the entity.
+# 
+# Examples:
+# 
+# To allow only interacting with all blocks in unclaimed chunks in this world:
+# 
+# unclaimedChunks.blockAccesses:
+#   __DEFAULT__:  I:true B:false P:false E:false ;
+# 
+# (Note: the key `__DEFAULT__` can be used to mean "all blocks/entities will have this if they are not defined here")
+# 
+# Finally, the `_` label is for world properties. These will not vary between unclaimed and claimed chunks.
+# 
+# More information will be available on the website: https://claimchunk.cjburkey.com
+
+_._@B_:
+  DOOR  [ IRON_DOOR, BIRCH_DOOR, ACACIA_DOOR, CRIMSON_DOOR, DARK_OAK_DOOR, SPRUCE_DOOR, OAK_DOOR, WARPED_DOOR, JUNGLE_DOOR ] ;
+  REDSTONE  [ POLISHED_BLACKSTONE_BUTTON, DARK_OAK_BUTTON, STONE_BUTTON, LEVER, CRIMSON_BUTTON, ACACIA_BUTTON, WARPED_BUTTON, JUNGLE_BUTTON, BIRCH_BUTTON, SPRUCE_BUTTON, OAK_BUTTON ] ;
+
+_._@E_:
+  ANIMALS  [ MULE, HOGLIN, LLAMA, SHEEP, POLAR_BEAR, MUSHROOM_COW, TURTLE, CHICKEN, TRADER_LLAMA, ZOMBIE_HORSE, BEE, HORSE, SKELETON_HORSE, PARROT, COW, FOX, AXOLOTL, PIG, CAT, GOAT, WOLF, RABBIT, STRIDER, DONKEY, PANDA, OCELOT ] ;
+  HANGING_ENTITIES  [ GLOW_ITEM_FRAME, ITEM_FRAME, PAINTING, LEASH_HITCH ] ;
+  MONSTERS  [ ENDERMAN, SILVERFISH, ZOMBIE_VILLAGER, HUSK, VEX, VINDICATOR, WITCH, PILLAGER, SPIDER, SKELETON, WITHER_SKELETON, PIGLIN_BRUTE, WITHER, CREEPER, ILLUSIONER, ZOMBIFIED_PIGLIN, CAVE_SPIDER, RAVAGER, DROWNED, GUARDIAN, EVOKER, ELDER_GUARDIAN, BLAZE, PIGLIN, ENDERMITE, GIANT, STRAY, ZOGLIN, ZOMBIE ] ;
+
+_:
+  enabled  true ;
+  preventAdjacent  [ TRAPPED_CHEST, CHEST ] ;
+  protectOffline  true ;
+  protectOnline  true ;
+
+allow_piston.from_claimed:
+  into_diff_claimed  true ;
+  into_unclaimed  true ;
+
+allow_piston.from_unclaimed:
+  into_claimed  true ;
+
+allow_spread.fire.from_claimed:
+  into_diff_claimed  true ;
+  into_same_claimed  true ;
+  into_unclaimed  true ;
+
+allow_spread.fire.from_unclaimed:
+  into_claimed  true ;
+  into_unclaimed  true ;
+
+allow_spread.lava.from_claimed:
+  into_diff_claimed  true ;
+  into_same_claimed  true ;
+  into_unclaimed  true ;
+
+allow_spread.lava.from_unclaimed:
+  into_claimed  true ;
+  into_unclaimed  true ;
+
+allow_spread.water.from_claimed:
+  into_diff_claimed  true ;
+  into_same_claimed  true ;
+  into_unclaimed  true ;
+
+allow_spread.water.from_unclaimed:
+  into_claimed  true ;
+  into_unclaimed  true ;
+
+claimedChunks.blockAccesses:
+  @DOOR  B:false P:false I:false E:false ;
+  @REDSTONE  B:false P:false I:true E:false ;
+  __DEFAULT__  B:false P:false I:false E:false ;
+
+claimedChunks.entityAccesses:
+  @MONSTERS  D:true E:false I:true ;
+  __DEFAULT__  D:false E:false I:false ;
+
+claimedChunks.other:
+  blockedCmds  [  ] ;
+
+claimedChunks.owned:
+  blockedCmds  [  ] ;
+
+unclaimedChunks.blockAccesses:
+  __DEFAULT__  B:true P:true I:true E:true ;
+
+unclaimedChunks:
+  blockedCmds  [  ] ;
+
+unclaimedChunks.entityAccesses:
+  __DEFAULT__  D:true E:true I:true ;

@@ -1,0 +1,13 @@
+last-fill-material: WATER
+point-one: world,15.0,108.0,-30.0,0.0,0.0
+point-two: world,11.0,103.0,-30.0,0.0,0.0
+teleport-location: world,13.5,105.5,-29.5,179.24893,0.30003852
+commands-only: false
+commands: []
+disabled: false
+message: ''
+title: ''
+sub-title: ''
+bar-message: ''
+cooldown: 0
+portal-server: s2

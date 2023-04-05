@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 24.178.26.115
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1680551951416
+  login: 1680551944289
+money: '0'
+last-account-name: ItsArchitekt
+lastlocation:
+  world: e78e8ef8-e80a-481b-830a-1c3adc881a05
+  world-name: world
+  x: 5.5
+  y: 103.0
+  z: -36.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: e78e8ef8-e80a-481b-830a-1c3adc881a05
+  world-name: world
+  x: 13.0
+  y: 104.2
+  z: -28.5
+  yaw: 0.0
+  pitch: 0.0

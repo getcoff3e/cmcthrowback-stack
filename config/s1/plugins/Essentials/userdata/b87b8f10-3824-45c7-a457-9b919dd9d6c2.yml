@@ -1,0 +1,55 @@
+teleportenabled: true
+teleportauto: false
+godmode: true
+muted: false
+jailed: false
+ip-address: 76.72.41.235
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1680657812750
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1680664438700
+  login: 1680661928929
+money: '0'
+last-account-name: coff3e
+lastlocation:
+  world: cdce7dd0-e147-4789-b3ee-0cad280eef6d
+  world-name: world
+  x: -840.497726952669
+  y: 68.0
+  z: -2752.3991004952254
+  yaw: 69.2828369140625
+  pitch: 90.0
+logoutlocation:
+  world: cdce7dd0-e147-4789-b3ee-0cad280eef6d
+  world-name: world
+  x: 10.437939204661445
+  y: 71.0
+  z: -427.9665606024769
+  yaw: 71.6927490234375
+  pitch: 20.999679565429688
+homes:
+  carrotthia:
+    world: cdce7dd0-e147-4789-b3ee-0cad280eef6d
+    world-name: world
+    x: -842.881299564542
+    y: 64.0
+    z: -2747.470905547618
+    yaw: -107.435546875
+    pitch: 30.45025062561035
+  lolhgome:
+    world: cdce7dd0-e147-4789-b3ee-0cad280eef6d
+    world-name: world
+    x: -2040.010299153782
+    y: 67.0
+    z: -1247.2065707821985
+    yaw: -36.239871978759766
+    pitch: 26.523027420043945

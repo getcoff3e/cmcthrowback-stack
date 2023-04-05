@@ -1,0 +1,10 @@
+default_language = "en_us"
+debug = false
+
+# [servers]
+# farmworld = "127.0.0.1:25565"
+# overworld = "127.0.0.1:25566"
+
+[host]
+ip = "0.0.0.0"
+port = 0
